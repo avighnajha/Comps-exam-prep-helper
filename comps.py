@@ -59,17 +59,6 @@ def download_file(file_id,folder_name, file_name, api_key, output_path):
 
     output_path+=file_name
 
-    response = requests.get(url, params = param)
-    if not os.path.exists(output_path+directory):
-        os.makedirs(output_path+directory)
-        output_path+=directory
-
-    if not os.path.exists(output_path+folder_name):
-        os.makedirs(output_path+folder_name)
-        output_path+=folder_name
-
-    output_path+=file_name
-
     if response.status_code == 200:
 
         if not os.path.exists(output_path+directory):
