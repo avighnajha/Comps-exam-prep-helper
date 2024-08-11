@@ -14,8 +14,15 @@ folder_chain = {"A. Pre-2019 Entry Syllabus": "3rd and 4th Year",
                 "B. Past Papers": "Questions",
                 "Questions": ""}
 question_folder_dis = {"pre": "1eZbRZQnjkv_mKhHEHF71STYwFUGPkUtH", "post": "1azGmV1P-_CWqHTgdCmW8v24VbQffV5MN"}
+folder_chain = {"A. Pre-2019 Entry Syllabus": "3rd and 4th Year",
+                "B. Post-2019 Entry Syllabus":"3rd and 4th year",
+                "3rd and 4th Year": "B. Past Papers",
+                "B. Past Papers": "Questions",
+                "Questions": ""}
+question_folder_dis = {"pre": "1eZbRZQnjkv_mKhHEHF71STYwFUGPkUtH", "post": "1azGmV1P-_CWqHTgdCmW8v24VbQffV5MN"}
 
 def list_files(folder_id, api_key):
+    #drive_api_url = "https://www.googleapis.com/drive/v3/files"
     #drive_api_url = "https://www.googleapis.com/drive/v3/files"
     params = {
         "q": f"'{folder_id}' in parents",
@@ -25,6 +32,7 @@ def list_files(folder_id, api_key):
     response = requests.get(drive_api_url, params = params)
     if response.status_code == 200:
         data = response.json()
+        #print(data)
         #print(data)
         return data["files"]
     else:
@@ -40,6 +48,17 @@ def download_file(file_id,folder_name, file_name, api_key, output_path):
         "Authorization": "Bearer ACCESS_TOKEN",
         "key": api_key,
     }
+    response = requests.get(url, params = param)
+    if not os.path.exists(output_path+directory):
+        os.makedirs(output_path+directory)
+        output_path+=directory
+
+    if not os.path.exists(output_path+folder_name):
+        os.makedirs(output_path+folder_name)
+        output_path+=folder_name
+
+    output_path+=file_name
+
     response = requests.get(url, params = param)
     if not os.path.exists(output_path+directory):
         os.makedirs(output_path+directory)
