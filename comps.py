@@ -14,12 +14,7 @@ folder_chain = {"A. Pre-2019 Entry Syllabus": "3rd and 4th Year",
                 "B. Past Papers": "Questions",
                 "Questions": ""}
 question_folder_dis = {"pre": "1eZbRZQnjkv_mKhHEHF71STYwFUGPkUtH", "post": "1azGmV1P-_CWqHTgdCmW8v24VbQffV5MN"}
-folder_chain = {"A. Pre-2019 Entry Syllabus": "3rd and 4th Year",
-                "B. Post-2019 Entry Syllabus":"3rd and 4th year",
-                "3rd and 4th Year": "B. Past Papers",
-                "B. Past Papers": "Questions",
-                "Questions": ""}
-question_folder_dis = {"pre": "1eZbRZQnjkv_mKhHEHF71STYwFUGPkUtH", "post": "1azGmV1P-_CWqHTgdCmW8v24VbQffV5MN"}
+
 
 def list_files(folder_id, api_key):
     #drive_api_url = "https://www.googleapis.com/drive/v3/files"
