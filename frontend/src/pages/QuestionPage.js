@@ -19,6 +19,8 @@ function QuestionPage() {
       const dynamicPadding = textWidth * 1.7; // Adjust this factor as needed
       selectElement.style.width = `${textWidth + basePadding + dynamicPadding}px`;
     }
+
+    fetchTopicQuestions(topic)
     
   }, [topic]);
   

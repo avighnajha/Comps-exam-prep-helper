@@ -1,0 +1,1486 @@
+[
+  {
+    "id": 39,
+    "topic": "Atomic Physics",
+    "year": "2009",
+    "question_num": "4",
+    "description": "This question is about particle physics, covering topics such as classification of particles, energy-momentum relations, particle decays, and Lorentz transformations. It is divided into five parts, each testing different aspects of particle physics."
+  },
+  {
+    "id": 40,
+    "topic": "Atomic Physics",
+    "year": "2011",
+    "question_num": "8",
+    "description": "This question is about a one-dimensional semiconductor quantum wire with electrons modeled by a Schrödinger equation, and explores the effects of spin-orbit interactions on the electron energy eigenstates and spin density. The question involves calculations of energy eigenvalues, wavefunctions, and spin density, as well as explanations of physical principles and phenomena."
+  },
+  {
+    "id": 41,
+    "topic": "Atomic Physics",
+    "year": "2012",
+    "question_num": "9",
+    "description": "This question explores the properties of highly excited hydrogen atoms, specifically Rydberg atoms, and their energy levels, orbital radii, and ionization energies, as well as the application of Fabry-Perot resonators to these systems. The question involves deriving and applying formulas for energy levels and orbital radii, and analyzing the properties of Rydberg atoms and their transitions."
+  },
+  {
+    "id": 42,
+    "topic": "Atomic Physics",
+    "year": "2015",
+    "question_num": "6",
+    "description": "This question is about the stability of protons and neutrons, the semi-empirical mass formula, and the application of nuclear physics to thermal nuclear reactors. It involves explaining the stability of particles, the decay of neutrons, and the binding energy of nuclei, as well as the use of certain isotopes of uranium as fuel in nuclear reactors."
+  },
+  {
+    "id": 43,
+    "topic": "Atomic Physics",
+    "year": "2015",
+    "question_num": "8",
+    "description": "This question is about the Bohr model of the hydrogen atom, including the quantization of angular momentum, energy levels, and magnetic moments, and how an applied magnetic field affects the electron's motion. The question involves calculating various physical quantities and describing the electron's behavior in the presence of a magnetic field."
+  },
+  {
+    "id": 44,
+    "topic": "Atomic Physics",
+    "year": "2016",
+    "question_num": "2",
+    "description": "This question deals with the motion of electrons in semiconductors, including their energy, group velocity, and effective mass in the presence of an electric field. The question also explores the effects of scattering on electron acceleration and the resulting conductivity of the semiconductor."
+  },
+  {
+    "id": 45,
+    "topic": "Atomic Physics",
+    "year": "2020",
+    "question_num": "1",
+    "description": "Here are the 2-sentence descriptions for each question:\n\n**Question 1**\nThis question involves the physics of particle decays, specifically the decay of a B0 meson into a ψ and a K0, and the subsequent decay of the K0 into other particles. The question asks for Feynman diagrams, energy calculations, and discussions of CP violation and the behavior of the K0 particles.\n\n**Question 2**\nThis question deals with the principles of wave optics, including interference patterns and intensity distributions, in the context of a double-slit experiment with multiple point sources. The question asks for calculations and analyses of the resulting interference patterns and their properties.\n\n**Question 3**\nThis question relates to the measurement of the magnetic dipole moment of the neutral hydrogen atom, involving the interaction of a magnetic dipole with a non-uniform magnetic field. The question asks for calculations and analyses of the potential energy, force, and behavior of the hydrogen atoms in the experiment."
+  },
+  {
+    "id": 46,
+    "topic": "Atomic Physics",
+    "year": "2020",
+    "question_num": "6",
+    "description": "This question is about radiocarbon dating and mass spectrometry, involving the calculation of the time needed to reduce the initial ratio of 14C/12C and the analysis of a mass spectrometer to separate 12C and 14C ions based on their mass difference."
+  },
+  {
+    "id": 47,
+    "topic": "Atomic Physics",
+    "year": "2021",
+    "question_num": "8",
+    "description": "This question is about meson physics, where the masses of different meson states are given and used to determine quark masses and decay modes. The question involves calculating the expectation value of a spin term and using it to find the masses of u and d quarks, as well as predicting the decay modes of excited meson states."
+  },
+  {
+    "id": 48,
+    "topic": "Atomic Physics",
+    "year": "2021",
+    "question_num": "9",
+    "description": "This question explores the Fermi surface of metals in two and three dimensions, deriving density of states expressions and analyzing electronic heat capacity at constant volume. It involves approximating complex Fermi surfaces as simple geometric shapes to facilitate calculations."
+  },
+  {
+    "id": 49,
+    "topic": "Electromagnetism",
+    "year": "2009",
+    "question_num": "3",
+    "description": "This question involves calculating radiation pressure on various objects, including a perfect blackbody, a perfectly reflecting surface, and a massive star, as well as determining the stability of the star. It also explores the effects of radiation pressure on a dust grain orbiting the Sun, including the force and deceleration experienced by the grain."
+  },
+  {
+    "id": 50,
+    "topic": "Electromagnetism",
+    "year": "2009",
+    "question_num": "5",
+    "description": "The question involves the phenomenon of total internal reflection and its applications in various scenarios, including a diver in a lake, diamond cutting, and optical fibers. The question requires explanations, derivations, and calculations of critical angles and acceptance angles in these different contexts."
+  },
+  {
+    "id": 51,
+    "topic": "Electromagnetism",
+    "year": "2009",
+    "question_num": "6",
+    "description": "This question involves a circular coil with a current flowing through it, and the magnetic field it produces, as well as the interaction of this field with a neutral atom. The question requires calculations of the magnetic field, explanations of physical concepts, and descriptions of the behavior of the atom in the magnetic field."
+  },
+  {
+    "id": 52,
+    "topic": "Electromagnetism",
+    "year": "2009",
+    "question_num": "7",
+    "description": "This question is about the Large Hadron Collider, where protons are accelerated in a circular path and magnetic fields are used to bend their trajectory. The question asks to calculate various physical quantities related to the collider, such as the magnetic field strength, total energy carried by the beam, and magnetic energy stored in the vacuum chambers."
+  },
+  {
+    "id": 53,
+    "topic": "Electromagnetism",
+    "year": "2009",
+    "question_num": "8",
+    "description": "This question asks to describe the physics of high-energy photon interactions with matter, including the photoelectric effect, Compton scattering, and pair creation, and their corresponding photon energy ranges. It also involves a gamma-ray camera used for medical imaging, where Compton scattering is used to measure the direction of gamma rays, and requires calculations and explanations of various aspects of the camera's operation."
+  },
+  {
+    "id": 54,
+    "topic": "Electromagnetism",
+    "year": "2009",
+    "question_num": "9",
+    "description": "This question deals with the interaction between microwaves and water molecules in a microwave oven, involving concepts such as polarizability, dielectric constant, and refractive index. The question requires mathematical derivations and graph analysis to understand the behavior of microwaves in water and its applications in microwave ovens."
+  },
+  {
+    "id": 55,
+    "topic": "Electromagnetism",
+    "year": "2010",
+    "question_num": "10",
+    "description": "This question asks students to choose five topics from a list of nine and write short notes on each of the selected topics, covering various areas of physics including electromagnetism, thermodynamics, and quantum mechanics. The topics range from the Hall effect and Black body radiation to the Hertzsprung-Russell diagram and Weak interactions."
+  },
+  {
+    "id": 56,
+    "topic": "Electromagnetism",
+    "year": "2010",
+    "question_num": "3",
+    "description": "This question compares the efficiency of incandescent and fluorescent light bulbs in converting electrical energy to visible light, and then delves into the properties of fluorescence in various substances, including fluoroscein, using laser diodes and detectors. The question requires explanations, calculations, and analysis of fluorescence phenomena, including quantum yield, detection limits, and lifetime."
+  },
+  {
+    "id": 57,
+    "topic": "Electromagnetism",
+    "year": "2010",
+    "question_num": "6",
+    "description": "This question covers various aspects of electromagnetism, including Faraday's law, Ampere's law, self-inductance, mutual inductance, and their applications in a simplified ignition system. The question requires students to derive expressions, explain analogies, and solve problems related to magnetic fields, flux, and electromotive forces."
+  },
+  {
+    "id": 58,
+    "topic": "Electromagnetism",
+    "year": "2011",
+    "question_num": "7",
+    "description": "This question deals with the analysis of an electrolyte at high temperatures, where the ions and electrons are completely ionized, and the electrostatic potential is screened to become short-ranged. The question involves using the Maxwell-Boltzmann distribution and Poisson's equation to derive an expression for the electrostatic potential and to interpret the physical meaning of a key parameter, λ."
+  },
+  {
+    "id": 59,
+    "topic": "Electromagnetism",
+    "year": "2011",
+    "question_num": "8",
+    "description": "The question deals with the interaction of linearly polarized electromagnetic waves with a series of linear polarizers, analyzing the transmitted intensity fraction and the rotation of the electric field. The problem involves mathematical derivations and proofs to describe the behavior of the wave as it passes through the polarizers."
+  },
+  {
+    "id": 60,
+    "topic": "Electromagnetism",
+    "year": "2014",
+    "question_num": "10",
+    "description": "This question asks the candidate to choose five topics from a list of ten and provide brief notes on each of the selected topics. The topics range from quantum computing and particle physics to optics and mathematics."
+  },
+  {
+    "id": 61,
+    "topic": "Electromagnetism",
+    "year": "2014",
+    "question_num": "2",
+    "description": "This question involves a conducting box with a thin conducting sheet that can move without friction, filled with a uniform magnetic field, and asks for various calculations related to the magnetic field, energy, and motion of the sheet. The problem requires the application of concepts such as magnetic flux, energy storage, and oscillations."
+  },
+  {
+    "id": 62,
+    "topic": "Electromagnetism",
+    "year": "2014",
+    "question_num": "5",
+    "description": "This question is about the relativistic Doppler effect and its application to the observation of a radio galaxy, 3C31, with relativistic jets of plasma material. The question involves calculating the velocity of the galaxy, explaining the Doppler effect, and analyzing the observed luminosity of the jets at different angles of orientation."
+  },
+  {
+    "id": 63,
+    "topic": "Electromagnetism",
+    "year": "2014",
+    "question_num": "6",
+    "description": "This question involves the stripping of a hydrogen ion beam using electromagnetic fields and laser light, and requires calculations of the velocity and relativistic parameters of the beam, electric fields, lifetimes, and laser frequencies in different frames of reference. The question also involves the application of Lorentz transformations to electric and magnetic fields."
+  },
+  {
+    "id": 64,
+    "topic": "Electromagnetism",
+    "year": "2014",
+    "question_num": "7",
+    "description": "This question involves calculating the induced electric potential difference in a jet fighter's wing and determining if it can be used to measure the aircraft's speed. The question also explores the electromotive force induced in a loop of wire in an external AC magnetic field, and the current and potential difference in a folded loop with two rings."
+  },
+  {
+    "id": 65,
+    "topic": "Electromagnetism",
+    "year": "2015",
+    "question_num": "10",
+    "description": "This question is about magnetic flux, Faraday's law, and self-inductance in a solenoid, and it also involves an application of these concepts to a simplified ignition system in a car. The question has four parts, including derivations, explanations, and calculations related to magnetic fields, flux, and emf."
+  },
+  {
+    "id": 66,
+    "topic": "Electromagnetism",
+    "year": "2015",
+    "question_num": "11",
+    "description": "This question asks the student to choose five topics from a list of ten and write brief notes on each of the chosen topics. The topics include various concepts from electromagnetism, quantum mechanics, and thermodynamics."
+  },
+  {
+    "id": 67,
+    "topic": "Electromagnetism",
+    "year": "2015",
+    "question_num": "3",
+    "description": "This question involves an X-ray free-electron laser beam and its interaction with an electron, requiring calculations of electric field, velocity, and displacement, as well as an analysis of Compton scattering. The problem also asks about the energy of scattered photons and the fate of the lost energy."
+  },
+  {
+    "id": 68,
+    "topic": "Electromagnetism",
+    "year": "2015",
+    "question_num": "5",
+    "description": "This question is about the photoelectric effect, including its description, conditions, and mathematical expressions for maximum kinetic energy and cut-off voltage. The question also covers the Fermi-Dirac distribution and its approximation, as well as the derivation of an expression for photoelectric current in a free electron gas."
+  },
+  {
+    "id": 69,
+    "topic": "Electromagnetism",
+    "year": "2015",
+    "question_num": "7",
+    "description": "This question involves the physics of a semiconductor photodiode detecting linearly polarized light from a weak source, with a focus on the relationships between incident power, frequency, and generated electric current. The question also explores the effects of noise and the potential for amplifying the current using a strong coherent light source."
+  },
+  {
+    "id": 70,
+    "topic": "Electromagnetism",
+    "year": "2016",
+    "question_num": "2",
+    "description": "This question is about a spin-1/2 particle in a uniform magnetic field, where the student is asked to derive certain properties of the Pauli spin matrices, solve the time-dependent Schrödinger equation, and find the expectation value of the magnetic moment. The question also involves generalizing the results to a time-dependent magnetic field and applying it to a spin situated near a current-carrying wire."
+  },
+  {
+    "id": 71,
+    "topic": "Electromagnetism",
+    "year": "2016",
+    "question_num": "5",
+    "description": "This question covers various topics in nuclear and particle physics, including radioactive decay, alpha decay, beta decay, and the motion of charged particles in magnetic fields. It involves calculations, justifications, and sketches of various physical quantities and phenomena."
+  },
+  {
+    "id": 72,
+    "topic": "Electromagnetism",
+    "year": "2017",
+    "question_num": "10",
+    "description": "This question asks students to choose five topics from a list of ten and write brief notes on each of the selected topics. The topics cover a range of physics subfields, including electromagnetism, astrophysics, quantum mechanics, nuclear physics, and thermodynamics."
+  },
+  {
+    "id": 73,
+    "topic": "Electromagnetism",
+    "year": "2017",
+    "question_num": "2",
+    "description": "This question is about the behavior of a pn junction photodiode detecting light from a relativistic source, including the absorption of light in the semiconductor and the effects of relativity on the detected signal. The question involves calculations of light absorption, photocurrent, and the effects of the source's velocity on the detected signal."
+  },
+  {
+    "id": 74,
+    "topic": "Electromagnetism",
+    "year": "2018",
+    "question_num": "6",
+    "description": "This question is about ion thrusters, a type of electric propulsion for spacecraft, and involves calculating various physical quantities such as ion speed, electric field, and ion number density in the acceleration region. The question also asks to derive expressions for current density, magnetic field, Poynting vector, and thrust exerted by the ion thruster."
+  },
+  {
+    "id": 75,
+    "topic": "Electromagnetism",
+    "year": "2018",
+    "question_num": "9",
+    "description": "This question involves the analysis of a semiconductor's response to an electric field, including the calculation of the Debye screening length and capacitance. The problem also compares the capacitance of a depletion region in a pn junction diode to the capacitance in the Debye screening region."
+  },
+  {
+    "id": 76,
+    "topic": "Electromagnetism",
+    "year": "2019",
+    "question_num": "10",
+    "description": "This question asks the student to choose one of eight topics and write an essay about it, covering concepts and applications related to physics. The topics range from machine learning and quantum computing to sailing, cosmic rays, and the search for life on other planets."
+  },
+  {
+    "id": 77,
+    "topic": "Electromagnetism",
+    "year": "2019",
+    "question_num": "2",
+    "description": "This question involves a loop of conductive material moving in a non-uniform magnetic field, and asks to state Lenz's law, find the induced current and force on the loop, and determine the direction of the force. The question also involves a magnetic dipole and a circular loop of wire, and asks to find the magnetic flux, force on the loop, and the retarding force on a magnet dropped through a copper tube."
+  },
+  {
+    "id": 78,
+    "topic": "Electromagnetism",
+    "year": "2019",
+    "question_num": "4",
+    "description": "This question involves calculating various physical quantities related to charged particles in magnetic fields and detectors, including momentum, radius of curvature, and scattering angles. The question also deals with the resolution of momentum measurements and the effects of multiple scattering on detector materials."
+  },
+  {
+    "id": 79,
+    "topic": "Electromagnetism",
+    "year": "2019",
+    "question_num": "5",
+    "description": "This question involves the decay of 64Cu into 64Zn and 64Ni through beta decay and electron capture, and requires equations to be written for the decay processes, calculation of end-point energies, and analysis of a decay scheme. The question also involves calculation of neutrino energy and maximum photon energy released during the decay processes."
+  },
+  {
+    "id": 96,
+    "topic": "Mechanics",
+    "year": "2010",
+    "question_num": "4",
+    "description": "This question involves the decay of a π0 meson into two photons, with calculations of energy and angles in both the rest frame and laboratory frame, as well as probability distributions of the photon energies. The question requires applications of Lorentz transformations, relativistic kinematics, and probability theory."
+  },
+  {
+    "id": 80,
+    "topic": "Electromagnetism",
+    "year": "2020",
+    "question_num": "1",
+    "description": "Here are the 2-sentence descriptions for each question:\n\n1. This question is about CP violation in the B meson system, specifically the decay of B0 into ψK0, and the properties of the K0 meson. It involves calculating the energy and momentum of the K0, its average distance traveled, and the likelihood of observing its decay into ψK0S versus ψK0L.\n\n2. This question is about the interference pattern produced by light passing through two slits, with multiple point sources emitting light of the same wavelength. It involves calculating the intensity distribution on a screen, considering the effects of incoherent sources, and estimating the angular diameter of a star based on measurements.\n\n3. This question is about the measurement of the magnetic dipole moment of the neutral hydrogen atom, specifically the experiment by Phipps and Taylor in 1926. It involves calculating the potential energy and force on a magnetic dipole in a non-uniform magnetic field, and estimating the magnetic moment of the hydrogen atom based on experimental results."
+  },
+  {
+    "id": 81,
+    "topic": "Electromagnetism",
+    "year": "2020",
+    "question_num": "2",
+    "description": "This question asks about electric fields and dipoles, including the expression for the electric field of a point charge, the field lines between two opposite charges, and the electric field of an electric dipole in different orientations. The question also involves calculating the dipole moment and charge of atoms in a molecule, and deriving the expression for the polarizability of a simple one-electron atom."
+  },
+  {
+    "id": 82,
+    "topic": "Electromagnetism",
+    "year": "2020",
+    "question_num": "3",
+    "description": "This question describes an experiment to measure the magnetic dipole moment of the neutral hydrogen atom, and it involves calculating forces and potential energies of magnetic dipoles in non-uniform magnetic fields. The question also asks to interpret experimental results and estimate the value of the magnetic moment of the hydrogen atom."
+  },
+  {
+    "id": 83,
+    "topic": "Electromagnetism",
+    "year": "2020",
+    "question_num": "Wh",
+    "description": "This is a physics exam with three questions. The first question is about CP violation in the neutral kaon and B meson systems, and it asks students to draw a Feynman diagram, calculate the energy and momentum of a kaon, and discuss the likelihood of observing certain decays. The second question is about interference patterns created by point sources of light, and it asks students to derive equations for the intensity of light on a screen and calculate the visibility of the pattern. The third question is about the measurement of the magnetic dipole moment of the neutral hydrogen atom, and it asks students to derive equations for the force on a magnetic dipole and calculate the displacement of hydrogen atoms in a magnetic field."
+  },
+  {
+    "id": 84,
+    "topic": "Electromagnetism",
+    "year": "2021",
+    "question_num": "7",
+    "description": "This question is about the physics of doped semiconductors, including electron diffusion and drift in an electric field, and its application to field-effect transistors. The question covers topics such as the continuity equation, the relation between current and charge density, and the Einstein relation."
+  },
+  {
+    "id": 85,
+    "topic": "Electromagnetism",
+    "year": "2022",
+    "question_num": "FHEQ 6 only_5",
+    "description": "This question explores the behavior of spin-half atoms in a magnetic field, including magnetization relaxation in an inhomogeneous material. The question involves calculating the spin state and expectation value of the spin vector under different magnetic field conditions, and explaining the decay of magnetization in the material over time."
+  },
+  {
+    "id": 86,
+    "topic": "Gravitation",
+    "year": "2015",
+    "question_num": "7",
+    "description": "This question has four parts: it asks to calculate the electric field inside a uniformly charged sphere and analogously derive the radial gravitational field inside a sphere of uniform mass density, then to analyze the motion of a ship dropped through a tunnel through the center of the Earth, and finally to find the radial variation of pressure and estimate the temperature at the center of the Earth. The question combines concepts from electrostatics, gravity, and fluid mechanics to solve a series of problems related to a hypothetical tunnel through the center of the Earth."
+  },
+  {
+    "id": 87,
+    "topic": "Gravitation",
+    "year": "2017",
+    "question_num": "8",
+    "description": "This question concerns the motion of a satellite in orbit around a planet, including determining the period, energy, and speed of the satellite, as well as the effects of aerobraking on its orbit. The question also involves calculations related to the satellite's orbit and energy loss due to atmospheric drag."
+  },
+  {
+    "id": 88,
+    "topic": "Gravitation",
+    "year": "2020",
+    "question_num": "10",
+    "description": "This question asks you to write an in-depth essay on one of eight provided topics, ranging from the feasibility of electric cars to the physics of sports, and from advanced technological concepts to fundamental principles in physics. The topic you choose should be supported with relevant physical concepts and theories to demonstrate your understanding and critical thinking."
+  },
+  {
+    "id": 89,
+    "topic": "Gravitation",
+    "year": "2021",
+    "question_num": "6",
+    "description": "This question is about tidal forces and stresses in a gravitational field, where the goal is to find expressions for the tidal stress matrix and its properties in various scenarios. The question involves calculations and proofs related to the tidal stress matrix, including its symmetry, diagonalization, and behavior in different situations."
+  },
+  {
+    "id": 90,
+    "topic": "Gravitation",
+    "year": "2022",
+    "question_num": "FHEQ 6 only_3",
+    "description": "This question involves a charged sphere with a periodically varying radius and a pulsating spherical star, and explores the effects on the electric field, electromagnetic radiation, and the orbits of satellites around the pulsating bodies. The question also delves into the energy and orbital motion of a satellite orbiting a pulsating gaseous planet."
+  },
+  {
+    "id": 91,
+    "topic": "Mechanics",
+    "year": "2009",
+    "question_num": "10",
+    "description": "This question asks students to write brief notes on five selected topics from a list of ten, covering various areas of physics including quantum mechanics, relativity, and experimental techniques. The topics range from fundamental principles like the exclusion principle and zero-point energy to experimental methods like optical interferometry and error analysis."
+  },
+  {
+    "id": 92,
+    "topic": "Mechanics",
+    "year": "2009",
+    "question_num": "8",
+    "description": "This question is about a mass-spring system with a bar magnet that induces an electromotive force in a nearby metal ring, leading to electrical power dissipation in a resistor, which in turn affects the mechanical motion of the magnet. The question requires solving for the equation of motion, induced electromotive force, and power dissipation, and analyzing the damping and oscillations of the system."
+  },
+  {
+    "id": 93,
+    "topic": "Mechanics",
+    "year": "2009",
+    "question_num": "9",
+    "description": "The question involves the concept of angular momentum and its relation to torque, and applies it to a problem of a rotating door that strikes a door stop, requiring calculations of angular momentum, force, and compression of a rubber stop. The question has four parts, covering definition and time rate of change of angular momentum, and three sub-questions related to the door-stop system."
+  },
+  {
+    "id": 94,
+    "topic": "Mechanics",
+    "year": "2010",
+    "question_num": "2",
+    "description": "A particle of mass m attached to a massless string of length L swings under gravity, and its motion is described by the arc-length s from the equilibrium position. The question asks to derive the equation of motion, show it reduces to simple harmonic motion for small angles, and then analyzes the system in both classical and quantum mechanics."
+  },
+  {
+    "id": 95,
+    "topic": "Mechanics",
+    "year": "2010",
+    "question_num": "3",
+    "description": "This question asks about the transformation of velocity components under Lorentz transformation and the calculation of velocity components of different points on a bicycle wheel in both non-relativistic and relativistic scenarios. The question also requires an explanation of an apparent discrepancy in the average velocity of the wheel points in the relativistic scenario."
+  },
+  {
+    "id": 97,
+    "topic": "Mechanics",
+    "year": "2010",
+    "question_num": "5",
+    "description": "This question involves the physics of a helicopter hovering in air, including the calculation of mass flux, momentum flux, and kinetic energy flux, as well as the power required to keep the helicopter hovering. The question also involves the calculation of the maximum hover altitude and the power required for a dragonfly to hover."
+  },
+  {
+    "id": 98,
+    "topic": "Mechanics",
+    "year": "2010",
+    "question_num": "8",
+    "description": "This question consists of seven parts, all related to gravitational effects and inertial frames, including the bending of light and gravitational redshift. The question involves calculations and justifications using Newtonian mechanics and gravitational theory."
+  },
+  {
+    "id": 99,
+    "topic": "Mechanics",
+    "year": "2011",
+    "question_num": "20",
+    "description": "This question asks about the motion of a block attached to a horizontal, massless spring, and the work done by the spring force on the block as it moves from one position to another. The block is initially displaced from equilibrium and then released."
+  },
+  {
+    "id": 100,
+    "topic": "Mechanics",
+    "year": "2011",
+    "question_num": "4",
+    "description": "This question is about particle interactions, specifically the cross-section for a two-particle reaction and its application to antineutrino interactions with protons in water. The question also involves calculations of target density, reaction probability, and energy released in a supernova explosion."
+  },
+  {
+    "id": 101,
+    "topic": "Mechanics",
+    "year": "2011",
+    "question_num": "7",
+    "description": "The question involves a murder case where the police use a lie detector test to identify the murderer among 100 people, and calculates the probability of guilt based on the test results. It also involves a separate problem where the probability of murders in London is modeled using a Poisson distribution."
+  },
+  {
+    "id": 102,
+    "topic": "Mechanics",
+    "year": "2011",
+    "question_num": "9",
+    "description": "This question is about the mass formula for a nucleus and its application to the binding energy and gravitational potential energy of a nucleus, with parts involving derivation of formulas and calculation of values. The question also involves the comparison of gravitational potential energy with Coulomb repulsion and the binding energy per nucleon."
+  },
+  {
+    "id": 103,
+    "topic": "Mechanics",
+    "year": "2012",
+    "question_num": "10",
+    "description": "This question asks students to choose five topics from a list of ten and write brief notes on each of the selected topics. The topics cover a range of areas in physics, including mechanics, electromagnetism, quantum mechanics, and statistical physics."
+  },
+  {
+    "id": 104,
+    "topic": "Mechanics",
+    "year": "2012",
+    "question_num": "2",
+    "description": "This question involves a rotating body with moment of inertia and angular velocity, and its kinetic energy is calculated. Then, a yoyo is analyzed in terms of its rotational and translational motion, energy conservation, and forces, including the tension in the string."
+  },
+  {
+    "id": 105,
+    "topic": "Mechanics",
+    "year": "2012",
+    "question_num": "8",
+    "description": "This question consists of four parts, each dealing with oscillations and time measurements in different scenarios, including a mass on a spring, a pendulum, and clocks on a rocket and an aircraft, with a focus on deriving equations and calculating times and periods. The question requires applying physical principles to solve the problems, including gravity, acceleration, and relativistic effects."
+  },
+  {
+    "id": 106,
+    "topic": "Mechanics",
+    "year": "2015",
+    "question_num": "10",
+    "description": "This question asks the student to choose one of eight topics and write an essay on it, covering various aspects of physics and its applications. The topics range from futuristic concepts like human colonization of the galaxy to practical applications like hadron therapy and fusion vs fission power generation."
+  },
+  {
+    "id": 107,
+    "topic": "Mechanics",
+    "year": "2015",
+    "question_num": "3",
+    "description": "This question involves the analysis of a Wheatstone bridge circuit used to measure small voltages and its application to measure strain, specifically in a constantan wire under tensile force. The question requires the derivation of expressions for the bridge output voltage, resistance changes, and strain effects."
+  },
+  {
+    "id": 108,
+    "topic": "Mechanics",
+    "year": "2015",
+    "question_num": "9",
+    "description": "A cylinder with non-uniform mass distribution rolls without slipping on a horizontal surface under a time-varying horizontal force, and its rotation is analyzed in terms of angular velocity, forces, and torque. The problem involves finding expressions for the normal force, frictional force, and horizontal force, as well as the coefficient of static friction required to prevent slipping."
+  },
+  {
+    "id": 109,
+    "topic": "Mechanics",
+    "year": "2016",
+    "question_num": "10",
+    "description": "This question asks students to choose five topics from a list of ten and write short notes on each, covering a range of physics concepts. The topics include fundamental concepts, theoretical ideas, and observational evidence, requiring students to demonstrate their understanding and knowledge of various physics topics."
+  },
+  {
+    "id": 110,
+    "topic": "Mechanics",
+    "year": "2016",
+    "question_num": "3",
+    "description": "A particle collides with a moving wall and is reflected, and the changes in its momentum and kinetic energy are calculated. The problem then extends to a gas of molecules colliding with a moving piston, where the total momentum and kinetic energy of the molecules are calculated."
+  },
+  {
+    "id": 111,
+    "topic": "Mechanics",
+    "year": "2016",
+    "question_num": "8",
+    "description": "This question investigates the physics underlying the narrowing and breakup of a jet of water falling from a tap, including the effects of gravity and surface tension. The question involves deriving equations for the radius of the jet and the expected number of drops formed per second, as well as calculating the number of drops per second hitting the ground and the position of the next drop."
+  },
+  {
+    "id": 112,
+    "topic": "Mechanics",
+    "year": "2016",
+    "question_num": "9",
+    "description": "This question explores Newton's mistake in his mathematical theory of sound waves, deriving the wave equation for sound waves in a gas and analyzing the assumptions made, including the isothermal process assumption, which is later shown to be invalid. The question also involves calculating the sound pressure level, estimating the maximum deviation from the background air temperature, and discussing the adiabatic process in ideal gases."
+  },
+  {
+    "id": 113,
+    "topic": "Mechanics",
+    "year": "2017",
+    "question_num": "10",
+    "description": "This question asks the student to choose one of eight topics and write a comprehensive essay about it, covering its principles, concepts, and applications. The topics range from advanced physics concepts like dark matter and X-ray lasers to interdisciplinary areas like physics in sports and video games."
+  },
+  {
+    "id": 114,
+    "topic": "Mechanics",
+    "year": "2017",
+    "question_num": "2",
+    "description": "This question involves the operation of an ink-jet printer, where ink is driven from a nozzle through a charging electrode to form charged droplets that are then deflected onto paper. The question asks for calculations and expressions related to the velocity of the ink jet, the temperature required to produce a certain velocity, the capacitance of the charging electrode, and the electric field at the electrode inner wall."
+  },
+  {
+    "id": 115,
+    "topic": "Mechanics",
+    "year": "2017",
+    "question_num": "3",
+    "description": "This question examines the refractive forces exerted on a glass plate by high-energy laser pulses, considering the impulses and torques generated on the plate due to refraction and reflection of photons. The problem involves deriving expressions for the forces and torques exerted on the plate and calculating the resulting angular velocity and momentum changes."
+  },
+  {
+    "id": 116,
+    "topic": "Mechanics",
+    "year": "2017",
+    "question_num": "4",
+    "description": "This question involves estimating the ground state energy of a muon orbiting a lead nucleus, using two different models for the nucleus: a point charge and a sphere of uniform charge density. The question also explores the validity of these models and the effect of the muon's lifetime on the estimates."
+  },
+  {
+    "id": 117,
+    "topic": "Mechanics",
+    "year": "2018",
+    "question_num": "10",
+    "description": "This question asks the student to provide brief notes on five selected topics from a list of ten options, covering various areas of physics. The topics range from subatomic particles and radiation to astronomy and solid-state physics."
+  },
+  {
+    "id": 118,
+    "topic": "Mechanics",
+    "year": "2018",
+    "question_num": "4",
+    "description": "This question involves a spherical air bubble rising through a cylindrical container of water, and requires calculations of the center of mass and total momentum of the system, as well as an analysis of the forces acting on the bubble and its terminal velocity. The question also explores the limitations of the theory in certain situations, such as with CO2 bubbles in Champagne."
+  },
+  {
+    "id": 119,
+    "topic": "Mechanics",
+    "year": "2018",
+    "question_num": "6",
+    "description": "This question involves a mass spectrometer consisting of an electric field region and a magnetic field region, where ions are injected and their motion is analyzed. The question asks for calculations of the velocity gain of the ions, their subsequent motion in the magnetic field, and the distance they exit the magnetic field."
+  },
+  {
+    "id": 120,
+    "topic": "Mechanics",
+    "year": "2019",
+    "question_num": "1",
+    "description": "This question is about a bead oscillating on a horizontal rod connected to a spring, where the potential energy of the bead is given. The question asks to express the potential energy as a function of horizontal displacement, expand it in Taylor series, and identify the frequency of small oscillations."
+  },
+  {
+    "id": 121,
+    "topic": "Mechanics",
+    "year": "2020",
+    "question_num": "10",
+    "description": "This question asks you to choose five physics topics from a list and explain their importance and key consequences in a way that a high-school student can understand. The topics range from fundamental laws like the third law of thermodynamics to specific concepts like black body radiation and Thévenin’s theorem."
+  },
+  {
+    "id": 122,
+    "topic": "Mechanics",
+    "year": "2020",
+    "question_num": "3",
+    "description": "This question involves a conducting bar moving on rails in a gravitational and magnetic field, where the bar's motion is influenced by electrical current and forces. The question requires analysis of the bar's motion, including its acceleration, velocity, and current, as well as calculations of its maximum velocity and time to reach certain speeds."
+  },
+  {
+    "id": 123,
+    "topic": "Mechanics",
+    "year": "2020",
+    "question_num": "5",
+    "description": "This question investigates the behavior of a particle under a constant, homogeneous force in both classical and quantum mechanics, exploring its momentum, wave function, and probability density. The problem involves solving the time-dependent Schrödinger equation and analyzing the properties of the wave function and probability density in a stationary state."
+  },
+  {
+    "id": 124,
+    "topic": "Mechanics",
+    "year": "2020",
+    "question_num": "6",
+    "description": "This question involves elastic and inelastic scattering of two particles, exploring the relationships between scattering angles in the laboratory and center of mass frames. The problem requires deriving transformation relations and applying them to different scenarios, including elastic scattering with equal masses and inelastic scattering with energy loss."
+  },
+  {
+    "id": 125,
+    "topic": "Mechanics",
+    "year": "2020",
+    "question_num": "Wh",
+    "description": "This is an open-book physics exam that assesses synthesis of knowledge rather than factual recall, and any instances of plagiarism or collusion will be investigated and penalized. The exam consists of questions that require careful reading and full answers within the given time and marks available."
+  },
+  {
+    "id": 126,
+    "topic": "Mechanics",
+    "year": "2021",
+    "question_num": "1",
+    "description": "This question involves calculating the overburden pressure within a uniform spherical body and applying the concept to estimate the pressure at the center of the Earth and Jupiter. The problem also explores the implications of overburden pressure on the possibility of life on other planets and the shape of celestial bodies."
+  },
+  {
+    "id": 127,
+    "topic": "Mechanics",
+    "year": "2021",
+    "question_num": "10",
+    "description": "This question asks students to choose five topics from a list of eight and explain why they are important and their key consequences in a way that a high-school physics student can understand. The explanations should be clear, concise, and free of overly technical terms, with credit given for correctness, clarity, and creativity."
+  },
+  {
+    "id": 128,
+    "topic": "Mechanics",
+    "year": "2021",
+    "question_num": "2",
+    "description": "This question involves calculating the total mass of the Local Group of galaxies, specifically the Milky Way and Andromeda galaxies, by analyzing their dynamics and motion. The problem requires applying concepts from classical mechanics, such as kinetic and gravitational energy, and Kepler's laws, to determine the total mass of the system."
+  },
+  {
+    "id": 129,
+    "topic": "Mechanics",
+    "year": "2021",
+    "question_num": "3",
+    "description": "This question describes a scenario where a malicious being places a black hole with a mass similar to that of the K-Pg impactor inside the Earth, and then asks the student to calculate various properties of the black hole, such as its horizon radius, accretion rate, and trajectory inside the Earth, using Newtonian physics and gravity. The question also asks the student to evaluate the rate at which the black hole would \"swallow the Earth\" and to explain why a black hole would be less deadly than the K-Pg impactor if you were a dinosaur."
+  },
+  {
+    "id": 130,
+    "topic": "Mechanics",
+    "year": "2021",
+    "question_num": "8",
+    "description": "The question involves a cyclist on a bicycle with a centre of mass at a height above the ground, and the forces acting on the bicycle are to be analyzed in different scenarios including when the rear wheel is braked and when the front wheel is braked. The scenarios involve calculating reaction forces, deceleration, and determining conditions to avoid the reaction force at the rear wheel becoming zero."
+  },
+  {
+    "id": 131,
+    "topic": "Mechanics",
+    "year": "2021",
+    "question_num": "Th",
+    "description": "This is an introduction to a physics exam, outlining the rules and guidelines for the assessment, including the use of authorized resources and the prohibition of plagiarism and collusion. The text also emphasizes the importance of answering questions fully and strategically, given the time and mark constraints."
+  },
+  {
+    "id": 132,
+    "topic": "Mechanics",
+    "year": "2022",
+    "question_num": "FHEQ 6 only_1",
+    "description": "The question is about a triathlon race where a contestant is planning a course to minimize their total race time, and the problem involves finding an expression for the total race time and using minimization procedures to find the optimal path. The question also asks for the ratio of sin(θ1)/sin(θ2) in terms of the velocities and a physical example analogous to this problem."
+  },
+  {
+    "id": 133,
+    "topic": "Mechanics",
+    "year": "2022",
+    "question_num": "FHEQ 6 only_2",
+    "description": "This question explores the analogy between the Schrödinger equation and the heat/diffusion equations, using dimensional analysis to make estimates and explore the nature of quantum mechanics. The question also applies this analogy to estimate the time it takes to boil an ostrich egg and the probability of tunneling into a parallel universe."
+  },
+  {
+    "id": 134,
+    "topic": "Mechanics",
+    "year": "2022",
+    "question_num": "FHEQ 6 only_3",
+    "description": "This question involves a charged sphere with varying radius and a pulsating star, and explores the effects on electric and gravitational fields, radiation, and satellite orbits. The problem is divided into six parts, covering calculations of electric fields, radiation, and gravitational effects on satellite orbits around a pulsating planet."
+  },
+  {
+    "id": 135,
+    "topic": "Mechanics",
+    "year": "2022",
+    "question_num": "FHEQ 6 only_4",
+    "description": "This question explores the evaporative cooling of a classical gas in a simple model, where a gas is trapped in a cubic volume by a finite potential well and then suddenly released to a lower potential, causing the system to equilibrate to a new temperature.\n\nThis question explores magnetisation relaxation in materials, where a spin-half atom is prepared in a certain spin state and then subjected to a magnetic field that changes direction, causing the spin vector to rotate and eventually return to its original direction."
+  },
+  {
+    "id": 136,
+    "topic": "Mechanics",
+    "year": "2022",
+    "question_num": "Mocks_1",
+    "description": "This question explores the relationship between the Earth's temperature and its orbit around the Sun, using principles of radiative heat transfer and orbital mechanics. The problem involves deriving an equation for the Earth's mean temperature and estimating its value, as well as determining an upper bound on the eccentricity of the Earth's orbit based on temperature constraints."
+  },
+  {
+    "id": 137,
+    "topic": "Mechanics",
+    "year": "2022",
+    "question_num": "Mocks_2",
+    "description": "The question involves a cyclist on a bicycle with a constant speed, and asks to identify the forces acting on the bicycle, calculate the reaction forces at the wheels, and analyze the effects of braking on the front and rear wheels. The calculations require applying concepts of friction, gravity, and deceleration to determine the reaction forces and deceleration of the bicycle."
+  },
+  {
+    "id": 138,
+    "topic": "Mechanics",
+    "year": "2022",
+    "question_num": "Mocks_5",
+    "description": "A black hole with the same mass as the K-Pg impactor is placed inside the Earth, and its properties and behavior are analyzed using Newtonian physics and gravity. The question involves calculating the horizon radius, accretion rate, and trajectory of the black hole, as well as evaluating the rate at which it would \"swallow the Earth\"."
+  },
+  {
+    "id": 139,
+    "topic": "Quantum Mechanics",
+    "year": "2009",
+    "question_num": "2",
+    "description": "This question asks students to derive an equation for the time variation of the expectation value of a quantum mechanical operator and relate it to conservation laws, then apply it to derive Newton's law of motion and the Virial theorem for a one-dimensional system, and finally use the Virial theorem to find the average kinetic and potential energies of a harmonic oscillator. The question covers various aspects of quantum mechanics, including Hermitian operators, the time-dependent Schrödinger equation, and the Virial theorem."
+  },
+  {
+    "id": 140,
+    "topic": "Quantum Mechanics",
+    "year": "2009",
+    "question_num": "4",
+    "description": "This question involves applying the principles of Bohr's atomic model to a satellite in a circular orbit around the Earth, relating the satellite's radius and quantum mechanical wavelength, and calculating energy levels and uncertainty in radius. The question also explores the effects of special relativity on the timing of pulses sent by the satellite and received on the ground, and compares the relativistic correction to the quantum mechanical uncertainty."
+  },
+  {
+    "id": 141,
+    "topic": "Quantum Mechanics",
+    "year": "2010",
+    "question_num": "4",
+    "description": "This question involves a simple model of a metallic carbon nanotube, where the electrons move on the surface of a long cylinder, and the energy eigenstates satisfy the time-independent Schrödinger equation. The question is divided into five parts, asking to derive the energy eigenfunctions, explain the angular momentum quantum number, find the energy eigenvalues, and calculate the conductance of the nanotube."
+  },
+  {
+    "id": 142,
+    "topic": "Quantum Mechanics",
+    "year": "2010",
+    "question_num": "8",
+    "description": "This question involves the application of quantum mechanics to a particle in a potential step, including the use of the time-dependent Schrödinger equation, relativistic energy-momentum relationships, and Lorentz transformations. The question also explores the classical justification of a quantum result and the calculation of probability flux."
+  },
+  {
+    "id": 143,
+    "topic": "Quantum Mechanics",
+    "year": "2011",
+    "question_num": "3",
+    "description": "This question is about a one-dimensional infinite square well potential, where the student is asked to find the boundary conditions, derive the energy eigenvalues, and sketch the potential and wave functions. The question also asks the student to estimate the energy gap between the two lowest states in different physical systems, and propose a potential medium for an X-ray laser."
+  },
+  {
+    "id": 144,
+    "topic": "Quantum Mechanics",
+    "year": "2011",
+    "question_num": "4",
+    "description": "This question is about quantum tunneling and ionization of atoms in strong electric fields, with three parts: the first part involves calculating tunneling probabilities through a rectangular potential barrier, the second part involves analyzing the potential energy of a hydrogenic atom in a strong electric field, and the third part involves explaining the ionization of helium in a laser field."
+  },
+  {
+    "id": 145,
+    "topic": "Quantum Mechanics",
+    "year": "2012",
+    "question_num": "3",
+    "description": "This question explores the quantum mechanical behavior of a particle approaching a potential step, analyzing the reflection and transmission coefficients and their physical meanings. The problem involves applying the Schrödinger equation and boundary conditions to determine the reflection probability and optimal energy for reflection."
+  },
+  {
+    "id": 146,
+    "topic": "Quantum Mechanics",
+    "year": "2012",
+    "question_num": "4",
+    "description": "This question involves a quantum mechanical system of two thin rods rotating about a fixed perpendicular axis, with the rods interacting through a potential energy term. The question asks for various properties of the system, including energy levels, degeneracy, and behavior in different regimes of the interaction strength."
+  },
+  {
+    "id": 147,
+    "topic": "Quantum Mechanics",
+    "year": "2014",
+    "question_num": "3",
+    "description": "This question involves a simplified model of a White Dwarf star, where the properties of a degenerate electron gas are analyzed, including the phase space of the electrons, the number of electrons in a given momentum range, and the energy of the star. The question requires the application of quantum mechanics and relativity to derive expressions for the energy of the star and to discuss its stability against gravitational collapse."
+  },
+  {
+    "id": 148,
+    "topic": "Quantum Mechanics",
+    "year": "2014",
+    "question_num": "8",
+    "description": "This question involves applying the free electron model to iron, calculating various properties such as electron density, Fermi wave vector, Fermi energy, and Fermi temperature. The question also requires deriving the specific heat capacity of the free electron model and comparing it to that of a classical ideal gas."
+  },
+  {
+    "id": 149,
+    "topic": "Quantum Mechanics",
+    "year": "2016",
+    "question_num": "10",
+    "description": "This question offers eight different essay topics in physics, ranging from quantum computing to the legacy of James Clerk Maxwell, and asks the student to choose one and write a comprehensive essay. The topics cover a range of areas, including fundamental physics, applied physics, and the impact of science on society."
+  },
+  {
+    "id": 150,
+    "topic": "Quantum Mechanics",
+    "year": "2016",
+    "question_num": "4",
+    "description": "This question involves the behavior of ultracold Rb atoms in a two-dimensional gas, exploring their expansion in the xy-plane and their properties in an optical lattice. The question covers topics such as the Heisenberg uncertainty principle, Bloch states, and group velocity."
+  },
+  {
+    "id": 151,
+    "topic": "Quantum Mechanics",
+    "year": "2017",
+    "question_num": "4",
+    "description": "This question deals with the conservation of lepton and baryon numbers in particle physics, including proton stability and its relation to the lifetime of human beings. It involves calculation of muon lifetime, explanation of proton stability, and estimation of proton lifetime based on experimental limits and radiation dose."
+  },
+  {
+    "id": 152,
+    "topic": "Quantum Mechanics",
+    "year": "2017",
+    "question_num": "5",
+    "description": "This question involves a quantum double barrier system, where a beam of electrons is incident on two narrow barriers, and the phenomenon of resonant tunneling is explored. The question asks to derive expressions for the wave function and transmission coefficients of the system, and to analyze the properties of the transmission peaks."
+  },
+  {
+    "id": 153,
+    "topic": "Quantum Mechanics",
+    "year": "2017",
+    "question_num": "8",
+    "description": "This question deals with the eigenfunctions of a hydrogen atom with orbital angular momentum ` = 1, and it asks to show their orthogonality, find the electron-charge density, and explore the effects of a magnetic field on the wavefunction and energy levels. The question involves quantum mechanics and the Zeeman effect."
+  },
+  {
+    "id": 154,
+    "topic": "Quantum Mechanics",
+    "year": "2018",
+    "question_num": "2",
+    "description": "This question explores the phenomenon of neutrino oscillations, where anti-electron neutrinos produced in a nuclear reactor appear to \"disappear\" before reaching a detector, and involves deriving an expression for the survival probability of these neutrinos as a function of distance and energy. The question guides the student through a series of steps to explain this effect, including using plane-wave solutions to describe the propagation of mass eigenstates, defining a mixing angle, and deriving the probability of neutrino oscillations."
+  },
+  {
+    "id": 155,
+    "topic": "Quantum Mechanics",
+    "year": "2018",
+    "question_num": "3",
+    "description": "This question asks about a particle in a one-dimensional box, with various parts exploring the energy levels, wave functions, and probability distributions of the particle, as well as comparing classical and quantum mechanical results. The question also involves calculations and explanations of concepts such as the de Broglie wavelength and the Heisenberg uncertainty principle."
+  },
+  {
+    "id": 156,
+    "topic": "Quantum Mechanics",
+    "year": "2019",
+    "question_num": "5",
+    "description": "The question involves a quantum mechanical particle moving in a one-dimensional potential and asks to sketch the potential and describe the expected behavior of the particle. It then asks to derive and solve the Schrödinger equation for this potential, using various substitutions and transformations to find the energy spectrum of the particle."
+  },
+  {
+    "id": 157,
+    "topic": "Quantum Mechanics",
+    "year": "2019",
+    "question_num": "6",
+    "description": "This question involves the decay of an isotope of iridium, where a photon is emitted as it relaxes from an excited state to the ground state, and its energy distribution is measured. The question asks students to relate the natural width of the photon-energy distribution to the lifetime of the excited state, and to consider the effect of the energy resolution of the photon detector on the measured width."
+  },
+  {
+    "id": 158,
+    "topic": "Quantum Mechanics",
+    "year": "2019",
+    "question_num": "7",
+    "description": "This question involves normalizing a wave function, applying the kinetic energy operator, and finding the potential energy function that satisfies the Schrödinger equation for a particle in a one-dimensional potential. The question also compares the resulting potential energy function to the effective potential for the radial motion of an electron in a hydrogen atom."
+  },
+  {
+    "id": 159,
+    "topic": "Quantum Mechanics",
+    "year": "2019",
+    "question_num": "9",
+    "description": "This question involves probability density, quantum mechanics, and the properties of quantum dots, including their energy levels and emission spectra. The question has four parts, covering topics such as conditional probability, infinite potential wells, the Brus equation, and the calculation of emission energy."
+  },
+  {
+    "id": 160,
+    "topic": "Quantum Mechanics",
+    "year": "2020",
+    "question_num": "1",
+    "description": "This question involves the decay of B0 mesons into ψ and K0, with a focus on the subsequent decays of the K0 into semi-leptonic final states. The question covers various aspects of particle physics, including Feynman diagrams, energy and momentum calculations, and decay rates."
+  },
+  {
+    "id": 161,
+    "topic": "Quantum Mechanics",
+    "year": "2020",
+    "question_num": "4",
+    "description": "This question asks to work with the Klein-Gordon equation, a relativistic wave equation, to derive various properties and relations, including the continuity equation, a conserved charge, and the behavior under charge conjugation and a specific transformation. The question involves several subparts, each requiring a different calculation or proof related to the Klein-Gordon equation."
+  },
+  {
+    "id": 162,
+    "topic": "Quantum Mechanics",
+    "year": "2020",
+    "question_num": "5",
+    "description": "This question involves a particle of mass m confined in one dimension, acted upon by a constant homogeneous force F, and explores the particle's momentum, wave function, and probability density in both classical and quantum mechanical contexts. The question consists of four parts, each examining a different aspect of the particle's behavior under the force F."
+  },
+  {
+    "id": 163,
+    "topic": "Quantum Mechanics",
+    "year": "2020",
+    "question_num": "7",
+    "description": "This question involves the application of quantum mechanics to the universe, where temperature and age are incompatible observables represented by non-commuting Hermitian operators. The question asks to prove the reality of a constant, find its dimensions, and derive uncertainty relations and eigenfunctions for the operators."
+  },
+  {
+    "id": 164,
+    "topic": "Quantum Mechanics",
+    "year": "2020",
+    "question_num": "9",
+    "description": "This question calculates the pressure of a gas of non-interacting electrons, known as the degeneracy pressure, and compares it to the pressure of a classical ideal gas. The question involves using the energy levels of electrons in a cubic potential well and the density of states to derive expressions for the internal energy and pressure of the electron system."
+  },
+  {
+    "id": 165,
+    "topic": "Quantum Mechanics",
+    "year": "2021",
+    "question_num": "10",
+    "description": "This question asks you to choose five physics topics from a list and explain their importance and key consequences in a way that a high school physics student can understand. The topics range from basic concepts like temperature to more advanced topics like quantum fluctuations and the structure of the Universe."
+  },
+  {
+    "id": 166,
+    "topic": "Quantum Mechanics",
+    "year": "2021",
+    "question_num": "4",
+    "description": "This question examines the dynamics of conduction electrons in a one-dimensional crystal system, considering dispersion relations, group velocity, effective mass, and conductivity. It also explores the effects of electric fields and impurity scattering on electron motion and current."
+  },
+  {
+    "id": 167,
+    "topic": "Quantum Mechanics",
+    "year": "2021",
+    "question_num": "5",
+    "description": "This question asks about a quantum particle confined to a one-dimensional interval with a linear potential, where the wave function is a linear combination of two eigenfunctions. The question requires calculations and analysis of the probability density, energy expectation value, and time-evolution of the wave function."
+  },
+  {
+    "id": 168,
+    "topic": "Quantum Mechanics",
+    "year": "2021",
+    "question_num": "6",
+    "description": "This question explores the cooling of a trapped gas of 87Rb atoms due to particle loss, considering both classical and quantum regimes. The question involves calculations of temperature changes and particle distributions in both regimes, including Bose-Einstein condensation."
+  },
+  {
+    "id": 169,
+    "topic": "Quantum Mechanics",
+    "year": "2021",
+    "question_num": "7",
+    "description": "This question investigates the possibility of bound states in a quantum particle in an attractive exponential potential well in one, two, and higher spatial dimensions. The problem involves using a trial wave function to estimate the ground state energy and discuss the possibility of forming bound states based on the strength of the potential."
+  },
+  {
+    "id": 170,
+    "topic": "Quantum Mechanics",
+    "year": "2021",
+    "question_num": "8",
+    "description": "This question involves the properties of mesons, including their masses and spin, and requires calculations and explanations of these properties. The question is divided into four parts, each addressing a different aspect of meson physics, including the significance of mass equality, spin-dependent terms, quark masses, and decay modes."
+  },
+  {
+    "id": 171,
+    "topic": "Quantum Mechanics",
+    "year": "2021",
+    "question_num": "9",
+    "description": "This question involves calculating the density of states for a 2D metal and a 3D metal with a toroidal Fermi surface, and then using these results to find the electronic heat capacity at constant volume. The question also asks to compare the heat capacity of the 3D metal with that of a free-electron gas."
+  },
+  {
+    "id": 172,
+    "topic": "Quantum Mechanics",
+    "year": "2022",
+    "question_num": "FHEQ 6 only_2",
+    "description": "This question explores the analogy between the Schrödinger equation and the heat/diffusion equations, using dimensional analysis to make estimates and apply the analogy to various scenarios, including boiling an ostrich egg and tunneling into a parallel universe. The question requires making assumptions about the nature of time and applying the analogy to solve problems in quantum mechanics and other areas."
+  },
+  {
+    "id": 173,
+    "topic": "Quantum Mechanics",
+    "year": "2022",
+    "question_num": "Mocks_3",
+    "description": "This question involves a statistical model of an election with two candidates, where the goal is to predict the final outcome of the election based on the counted ballots after the first day and to comment on the validity of the assumptions used. The question also requires calculation of an estimate for the final fraction of votes for candidate B and its standard deviation for statistical error."
+  },
+  {
+    "id": 174,
+    "topic": "Quantum Mechanics",
+    "year": "2022",
+    "question_num": "Mocks_4",
+    "description": "This question deals with a one-dimensional infinite potential well with a Dirac delta perturbation, where the electron's energy levels and wavefunctions are affected. The question asks for the units of the perturbation strength, the first-order correction to the energy levels, and the analysis of quantum transitions between adjacent levels."
+  },
+  {
+    "id": 175,
+    "topic": "Relativity",
+    "year": "2012",
+    "question_num": "5",
+    "description": "This question involves deriving the time dilation formula from the Lorentz transformation and applying it to a scenario where a light source is moving towards an observer, and then exploring the consequences of spatial periodicity in the universe on the motion of a traveler and the observation of their journey by an Earth-bound observer."
+  },
+  {
+    "id": 176,
+    "topic": "Relativity",
+    "year": "2014",
+    "question_num": "10",
+    "description": "This question asks the student to choose one of nine essay topics related to physics and write a comprehensive essay on the chosen topic. The topics range from the physical limits of information technology to the importance of outreach in physics, and the student must demonstrate their knowledge and understanding of the chosen topic."
+  },
+  {
+    "id": 177,
+    "topic": "Relativity",
+    "year": "2014",
+    "question_num": "4",
+    "description": "This question is about the discovery of the Higgs boson at the Large Hadron Collider, and it involves calculating energies, drawing a Feynman diagram, and analyzing data from the CMS experiment. The question also asks for calculations of the number of produced Higgs bosons, signal significance, and branching fractions."
+  },
+  {
+    "id": 178,
+    "topic": "Relativity",
+    "year": "2015",
+    "question_num": "6",
+    "description": "This question involves the application of relativity principles to understand the effects on clocks in the Global Positioning System (GPS) satellites, including time dilation due to relative motion and gravitational potential. The question requires calculations and explanations of the time differences between GPS satellites and observers on Earth, as well as adjustments to the reference oscillators to account for these effects."
+  },
+  {
+    "id": 179,
+    "topic": "Relativity",
+    "year": "2016",
+    "question_num": "4",
+    "description": "The question involves an astronomical source of light moving at a speed less than c at an angle to the line of sight, and the observer measures the distance it moves across the sky. The problem asks to calculate the apparent speed of the object, find the angle that maximizes it, and discuss the possibility of apparent superluminal motion."
+  },
+  {
+    "id": 180,
+    "topic": "Relativity",
+    "year": "2016",
+    "question_num": "8",
+    "description": "This question deals with relativistic travel and the measurement of time and length by two observers, one on a planet and the other on a spacecraft moving at relativistic speeds. The question involves calculations of time intervals and lengths using the Lorentz transformations and time dilation."
+  },
+  {
+    "id": 181,
+    "topic": "Relativity",
+    "year": "2017",
+    "question_num": "5",
+    "description": "This question explores the limits of the diffraction grating experiment, including the mathematical derivations of the diffraction pattern and the conditions required to observe interference fringes. The question also discusses the feasibility of performing such an experiment with a living organism, such as a bacterium."
+  },
+  {
+    "id": 182,
+    "topic": "Relativity",
+    "year": "2017",
+    "question_num": "7",
+    "description": "This question explores the parallels between electrostatics and gravity, covering topics such as electric and gravitational fields, Gauss's law, and the gravitational force on objects inside and outside uniform masses. The question involves deriving equations, explaining concepts, and applying them to various scenarios, including a flat Earth model and a comparison between a spherical and disc-shaped planet."
+  },
+  {
+    "id": 183,
+    "topic": "Relativity",
+    "year": "2018",
+    "question_num": "7",
+    "description": "This question involves calculating various quantities related to satellite communication and optical fiber communication, including the radius of a geostationary orbit, signal delay times, and the maximum separation of repeaters in an optical fiber link. The question requires applying concepts from physics, such as orbital motion and absorption of light in a medium."
+  },
+  {
+    "id": 184,
+    "topic": "Relativity",
+    "year": "2018",
+    "question_num": "8",
+    "description": "This question involves a motorist driving through the rain and asks about the angle of the raindrops hitting the windshield in the motorist's frame of reference, considering both non-relativistic and relativistic effects. The question also extends to the scenario of starlight reaching the Earth and asks about the observed angle of the light and how it changes at relativistic speeds."
+  },
+  {
+    "id": 185,
+    "topic": "Relativity",
+    "year": "2019",
+    "question_num": "4",
+    "description": "This question involves the production and study of the Z boson in a collider experiment, specifically examining its invariant mass and kinematic properties in different reference frames. The question requires calculations and sketches of the reaction in fixed-target and centre-of-mass frames, as well as a Feynman diagram of the process and a comparison of the results."
+  },
+  {
+    "id": 186,
+    "topic": "Relativity",
+    "year": "2019",
+    "question_num": "6",
+    "description": "This question involves a laboratory in free-fall in a uniform gravitational field, where light is emitted and received, and the frequency shift of the light is analyzed from different frames of reference. The question requires calculations of time, frequency, and speed, as well as explanations of physical concepts such as the Doppler shift and frequency shift in a gravitational field."
+  },
+  {
+    "id": 187,
+    "topic": "Relativity",
+    "year": "2020",
+    "question_num": "4",
+    "description": "This question is about the velocity addition law in special relativity, specifically exploring its commutativity, associativity, and invertibility in different scenarios. The problem involves deriving and proving various properties of the velocity addition law, including its non-associativity in general."
+  },
+  {
+    "id": 188,
+    "topic": "Relativity",
+    "year": "2020",
+    "question_num": "5",
+    "description": "This question involves applying Einstein's General Theory of Relativity to describe the bending of light around massive bodies, specifically the Sun, and calculating various quantities related to gravitational lensing. The question covers the derivation of the Schwarzschild radius, the shortest focal length of the Sun as a gravitational lens, the amplification factor of light intensity, and the mass distribution required for an ideal optical convex lens."
+  },
+  {
+    "id": 189,
+    "topic": "Relativity",
+    "year": "2020",
+    "question_num": "7",
+    "description": "This question involves a hypothetical universe where temperature and age are incompatible quantum observables, and it asks to prove properties of a constant h, find inequalities for uncertainties in temperature and age, and analyze wave functions of the universe in a specific representation. The question consists of six parts, covering various aspects of quantum mechanics and its application to this imaginary universe."
+  },
+  {
+    "id": 190,
+    "topic": "Relativity",
+    "year": "2021",
+    "question_num": "3",
+    "description": "This question deals with the relativistic kinematics of scattering processes of elementary particles, where the number of particles remains the same but their masses and velocities may change. The question asks to derive various conditions and expressions for energy and momentum conservation in different frames of reference."
+  },
+  {
+    "id": 191,
+    "topic": "Relativity",
+    "year": "2021",
+    "question_num": "4",
+    "description": "This question explores how a wormhole can be configured into a time machine, analyzing the motion of two mouths of a wormhole in different frames of reference. The question involves drawing spacetime diagrams and analyzing the motion of the wormhole mouths to determine the possibility of time travel."
+  },
+  {
+    "id": 192,
+    "topic": "Statistics",
+    "year": "2012",
+    "question_num": "5",
+    "description": "This question involves statistical physics and partition functions, dealing with electric dipoles and their alignments, and then applies these concepts to a model of ice crystals and their configurational entropy. The question asks for various calculations and explanations related to partition functions, probabilities, and entropy in these systems."
+  },
+  {
+    "id": 193,
+    "topic": "Statistics",
+    "year": "2012",
+    "question_num": "6",
+    "description": "This question is about a statistical analysis of a blind taste test between two soft drinks, FizzyInnit and OldCola, involving 900 people. The question asks for calculations and conclusions about the results of the test, including expected mean and standard deviation, probability of a certain outcome, and consistency with claims about the preferences of different age groups."
+  },
+  {
+    "id": 194,
+    "topic": "Statistics",
+    "year": "2014",
+    "question_num": "7",
+    "description": "This question is about statistical physics, involving a system of identical atoms that can vibrate as simple harmonic oscillators with quantized energies. The question asks to define microstate and macrostate, find the multiplicity of certain macrostates, and then places the system in thermal contact with an environment to find the canonical partition function, probabilities of energy levels, and expectation value of energy."
+  },
+  {
+    "id": 195,
+    "topic": "Statistics",
+    "year": "2015",
+    "question_num": "8",
+    "description": "This question involves calibrating a wind meter using a fan, where students measure wind speeds with uncertainties and are asked to find the maximum-likelihood estimator of the velocity and its standard deviation. The question also requires analyzing the compatibility of the measurements with an expected wind speed."
+  },
+  {
+    "id": 196,
+    "topic": "Statistics",
+    "year": "2016",
+    "question_num": "7",
+    "description": "This question involves the detection of the gp120 molecule, a protein associated with HIV, using a technique that relies on the growth of gold nanoparticles, and it requires the application of statistical concepts such as the binomial and Poisson distributions to analyze the results of experiments. The question asks for calculations of mean numbers of molecules, probabilities, and variances, as well as comparisons with experimental outcomes."
+  },
+  {
+    "id": 197,
+    "topic": "Statistics",
+    "year": "2018",
+    "question_num": "9",
+    "description": "This question involves the detection of the Higgs boson through its decay into two photons at the Large Hadron Collider, requiring calculations of invariant mass and mass resolution. The question also asks for estimates of absolute mass resolution and significance of the Higgs signal in different calorimeters."
+  },
+  {
+    "id": 198,
+    "topic": "Statistics",
+    "year": "2019",
+    "question_num": "8",
+    "description": "This question involves a statistical analysis of a pre-referendum poll and its relation to the actual outcome of the 2016 UK referendum on leaving the European Union, using binomial models and probability calculations. The question explores the implications of different models on the predicted outcome of the referendum under various scenarios."
+  },
+  {
+    "id": 199,
+    "topic": "Statistics",
+    "year": "2021",
+    "question_num": "9",
+    "description": "This question involves a statistical analysis of an election with two candidates, using a binomial model to predict the final outcome and comparing the results with the actual outcome. It also explores the effect of a third candidate on the election outcome and the probability of winning in a runoff election."
+  },
+  {
+    "id": 200,
+    "topic": "Statistics",
+    "year": "2022",
+    "question_num": "Mocks_3",
+    "description": "This question involves a statistical analysis of an election with two candidates, using a binomial model to predict the final outcome and estimating the fraction of votes for one candidate. The problem also requires comparing the model's results with the actual election outcome and commenting on the validity of the assumptions made."
+  },
+  {
+    "id": 201,
+    "topic": "Thermal Physics (Ideal Gas and Pressure)",
+    "year": "2012",
+    "question_num": "7",
+    "description": "This question involves an ideal gas scenario with two gases, He and H2, in a cylinder with pistons, where the system is in equilibrium and then disturbed by adding mass, requiring calculations of quantities such as number of molecules, mass, temperature, and internal energy. The question also asks for comparisons and explanations of the physical effects on the gases."
+  },
+  {
+    "id": 202,
+    "topic": "Thermal Physics (Ideal Gas and Pressure)",
+    "year": "2016",
+    "question_num": "5",
+    "description": "This question involves an experiment to measure Boltzmann's constant by observing the variation of particle concentration with depth in water, and it requires applying the ideal gas law and buoyancy principles to analyze the data. The question has four parts, covering the theoretical derivation of equations, calculation of effective weight, estimation of Boltzmann's constant, and discussion of experimental feasibility."
+  },
+  {
+    "id": 203,
+    "topic": "Thermal Physics (Ideal Gas and Pressure)",
+    "year": "2016",
+    "question_num": "7",
+    "description": "This question involves calculating the minimum mass of a star, below which electron degeneracy pressure hinders contraction, by analyzing the conditions under which degeneracy pressure becomes important and hydrogen fusion initiates. The problem requires applying concepts such as electron degeneracy, ideal gas pressure, and the Virial Theorem to derive expressions for temperature and mass limits."
+  },
+  {
+    "id": 204,
+    "topic": "Thermal Physics (Ideal Gas and Pressure)",
+    "year": "2018",
+    "question_num": "7",
+    "description": "The question describes an atmospheric battery system consisting of a sealed container with an ideal gas and a water reservoir, where the system is open to the atmosphere and can generate electricity through a turbine. The system undergoes changes in pressure and height, and the question asks for calculations and explanations of the resulting work, energy, and potential energy changes."
+  },
+  {
+    "id": 205,
+    "topic": "Thermal Physics (Ideal Gas and Pressure)",
+    "year": "2020",
+    "question_num": "8",
+    "description": "This question involves the adiabatic compression of an ideal gas, deriving the relationship between pressure and volume, and calculating the work done during compression. The question also applies these concepts to a scenario of storing energy from a solar farm by compressing nitrogen gas."
+  },
+  {
+    "id": 206,
+    "topic": "Thermal Physics (Ideal Gas and Pressure)",
+    "year": "2020",
+    "question_num": "9",
+    "description": "This question calculates the pressure of a gas of non-interacting electrons, neglecting Coulomb interactions, using the Pauli exclusion principle and quantum mechanics. The problem involves deriving expressions for the pressure and internal energy of the electron system and comparing it to a classical ideal gas."
+  },
+  {
+    "id": 207,
+    "topic": "Thermal Physics (Ideal Gas and Pressure)",
+    "year": "2021",
+    "question_num": "6",
+    "description": "This question explores the cooling of a gas of 87Rb atoms trapped in a laser trap, considering both classical and quantum behaviors, and how the temperature of the system changes as it loses particles due to collisions with a background gas. The question involves calculations and explanations of the average energy per atom, temperature changes, and Bose-Einstein condensation."
+  },
+  {
+    "id": 208,
+    "topic": "Thermal Physics (Ideal Gas and Pressure)",
+    "year": "2022",
+    "question_num": "FHEQ 6 only_4",
+    "description": "This question involves a classical monatomic gas trapped in a cubic volume by a finite potential well, and explores the evaporative cooling process when the potential is suddenly dropped. The question requires calculations of the total energy and number of particles in the trap, and an estimation of the new equilibrium temperature."
+  },
+  {
+    "id": 209,
+    "topic": "Thermal Physics (Thermodynamics)",
+    "year": "2009",
+    "question_num": "2",
+    "description": "This question is about the temperature of tea and its cooling process, involving calculations of temperature changes when milk is added and when it cools in a mountainous environment. The question also explores the ideal temperature for brewing tea and the feasibility of achieving it at high altitude."
+  },
+  {
+    "id": 210,
+    "topic": "Thermal Physics (Thermodynamics)",
+    "year": "2009",
+    "question_num": "7",
+    "description": "This question involves the application of thermodynamic principles to a jetpack system, where hydrogen peroxide is used as fuel to produce thrust. The problem requires calculations of energy, temperature, and speed of gases, as well as the duration of hovering time for the jetpack."
+  },
+  {
+    "id": 211,
+    "topic": "Thermal Physics (Thermodynamics)",
+    "year": "2009",
+    "question_num": "Fi",
+    "description": "The question provides a pressure-enthalpy diagram for Carbon Dioxide and likely asks to identify or analyze a specific process or cycle on the diagram. The problem may require applying thermodynamic principles to a refrigeration or heat pump system using Carbon Dioxide as the working fluid."
+  },
+  {
+    "id": 212,
+    "topic": "Thermal Physics (Thermodynamics)",
+    "year": "2010",
+    "question_num": "7",
+    "description": "This question involves deriving an equation for the speed of sound in a gas, and then using it to explain how the speed of sound changes with temperature and pressure in the Earth's atmosphere and ocean. The question also asks about the behavior of sound waves in a layered medium, including refraction and waveguiding, and the attenuation of sound waves over long distances."
+  },
+  {
+    "id": 213,
+    "topic": "Thermal Physics (Thermodynamics)",
+    "year": "2011",
+    "question_num": "5",
+    "description": "This question deals with the Earth's orbit around the Sun, the Lagrange L2 point, and the Herschel Space Telescope's orbit around L2, including calculations of radiation flux and temperature. The question also involves heat transfer and thermal conductivity of the sunshield."
+  },
+  {
+    "id": 214,
+    "topic": "Thermal Physics (Thermodynamics)",
+    "year": "2011",
+    "question_num": "6",
+    "description": "This question asks about the specific heat of a material due to lattice vibrations, focusing on the effect of dimensionality on the properties of materials, particularly in two and three dimensions. The question requires derivations of the density of states and internal energy, and an explanation of how the measurement of specific heat relates to the dimension of a material."
+  },
+  {
+    "id": 215,
+    "topic": "Thermal Physics (Thermodynamics)",
+    "year": "2012",
+    "question_num": "4",
+    "description": "This question involves a microprocessor cooling system where a heat exchange fluid is housed in an enclosure with the processor and an inner cooling tube carrying a secondary coolant. The temperature distribution in the tube's walls is governed by a partial differential equation, and the question asks for various estimates and analyses related to the cooling system."
+  },
+  {
+    "id": 216,
+    "topic": "Thermal Physics (Thermodynamics)",
+    "year": "2012",
+    "question_num": "6",
+    "description": "This question involves an experiment to measure the thermal conductivity of a gas using a laser pulse, and it asks for explanations and calculations related to intensive and extensive physical quantities, heat diffusion, and entropy changes. The question includes six parts, covering topics such as the difference between intensive and extensive quantities, temperature perturbations, thermal conductivity, and entropy changes."
+  },
+  {
+    "id": 217,
+    "topic": "Thermal Physics (Thermodynamics)",
+    "year": "2012",
+    "question_num": "8",
+    "description": "This question set consists of two problems, one on radiation laws and the Sun-Earth system, and the other on quantum mechanics and nuclear forces."
+  },
+  {
+    "id": 218,
+    "topic": "Thermal Physics (Thermodynamics)",
+    "year": "2014",
+    "question_num": "4",
+    "description": "This question involves a monatomic gas in thermal equilibrium, where the speeds of the particles are given by the Maxwell-Boltzmann distribution, and the particles are released from one box into another through a small aperture. The question asks to calculate the mean kinetic energy of the particles, the total number of particles that entered the second box, and the final temperature of the gas in the second box."
+  },
+  {
+    "id": 219,
+    "topic": "Thermal Physics (Thermodynamics)",
+    "year": "2014",
+    "question_num": "6",
+    "description": "This question involves the thermodynamics of a z-pinch, a long current-carrying cylinder of plasma, and derives various equations related to its behavior, including the work done on the plasma, heat loss, and radius change over time. The question requires the application of the first law of thermodynamics and ideal gas laws to solve the problems."
+  },
+  {
+    "id": 220,
+    "topic": "Thermal Physics (Thermodynamics)",
+    "year": "2014",
+    "question_num": "8",
+    "description": "This question is about semiconductor photodiodes, which convert photons into electrical current, and involves sketching energy levels, explaining how heterostructures improve light detection, and calculating absorbed optical power and photocurrent. The question also asks about suitable semiconductor heterostructures for detecting light of a specific wavelength and reducing reflection from the device surface."
+  },
+  {
+    "id": 221,
+    "topic": "Thermal Physics (Thermodynamics)",
+    "year": "2014",
+    "question_num": "9",
+    "description": "This question explores the relationship between the binding energy of atoms in a solid and its bulk modulus, using the Lennard-Jones potential to model the atomic interactions. The problem involves calculating the binding energy of a pair of atoms, the equilibrium binding energy of a solid, and ultimately deriving an expression for the bulk modulus in terms of the binding energy."
+  },
+  {
+    "id": 222,
+    "topic": "Thermal Physics (Thermodynamics)",
+    "year": "2015",
+    "question_num": "2",
+    "description": "This question describes a fire extinguisher that releases CO2 gas through a pipe and asks to analyze the evolution of the system, including the volume, pressure, and temperature, as well as the influence of adding a layer of liquid CO2 on the solution. The question requires applying thermodynamic principles and ideal gas assumptions to derive equations and describe physical processes."
+  },
+  {
+    "id": 223,
+    "topic": "Thermal Physics (Thermodynamics)",
+    "year": "2015",
+    "question_num": "4",
+    "description": "This question involves an indirect drive inertial confinement fusion scheme where laser beams heat a hohlraum, creating thermal X-rays that compress and heat a fuel pellet to ignite fusion reactions. The question requires applying thermodynamic concepts, such as the Stefan-Boltzmann law, Helmholtz free energy, and Maxwell relations, to derive the temperature and energy equations for the radiation field within the hohlraum."
+  },
+  {
+    "id": 224,
+    "topic": "Thermal Physics (Thermodynamics)",
+    "year": "2015",
+    "question_num": "5",
+    "description": "This question asks about thermodynamic cycles, specifically the Carnot cycle and the Brayton cycle, including definitions, diagrams, and efficiency formulas. It also compares the efficiency of these two cycles."
+  },
+  {
+    "id": 225,
+    "topic": "Thermal Physics (Thermodynamics)",
+    "year": "2016",
+    "question_num": "6",
+    "description": "This question explores the generation of ocean currents by geothermal heating at the seafloor, using a linear equation of state and a Carnot cycle to model the process. The question involves deriving expressions for the slope of adiabats and isotherms, and estimating the efficiency and power output of the oceanic heat engine."
+  },
+  {
+    "id": 226,
+    "topic": "Thermal Physics (Thermodynamics)",
+    "year": "2017",
+    "question_num": "6",
+    "description": "Here are the 2-sentence descriptions for each question:\n\n**Question 6**\nThis question involves the analysis of an electrostatic analyzer used to measure the kinetic energy of charged particles, including the calculation of the angle of deflection and the effect of sinusoidal voltage on the analyzer. The problem also explores the ability of the analyzer to distinguish between different types of particles, such as protons and alpha particles.\n\n**Question 7**\nThis question examines the change in entropy of a thermal bath or heat reservoir from both statistical physics and thermodynamic perspectives, including the calculation of the probability of microstate occupation and the change in entropy upon adding energy to the reservoir. The problem also compares the microcanonical ensemble description with the macroscopic interpretation of the second law of thermodynamics."
+  },
+  {
+    "id": 227,
+    "topic": "Thermal Physics (Thermodynamics)",
+    "year": "2018",
+    "question_num": "3",
+    "description": "The question is about deriving the Clausius-Clapeyron relationship and applying it to a desalination plant process, involving multiple stages of heating, evaporation, and condensation. The problem requires manipulating thermodynamic equations and applying them to a real-world scenario, with a focus on energy input requirements and efficiency."
+  },
+  {
+    "id": 228,
+    "topic": "Thermal Physics (Thermodynamics)",
+    "year": "2020",
+    "question_num": "10",
+    "description": "This question asks you to choose five topics from a list of ten and explain why they are important and their key consequences in a way that a high-school student can understand. The topics range from fundamental concepts like the Doppler effect and the third law of thermodynamics to more advanced ideas like the nuclear shell model and the Standard Model."
+  },
+  {
+    "id": 229,
+    "topic": "Thermal Physics (Thermodynamics)",
+    "year": "2020",
+    "question_num": "7",
+    "description": "This question is about the physics of cooking pizza, specifically the heat conduction and radiation involved in the process. It asks students to explain specific heat capacity, derive equations for heat conduction, and apply these concepts to a scenario where a pizza is cooked in a brick oven and an electric oven."
+  },
+  {
+    "id": 230,
+    "topic": "Thermal Physics (Thermodynamics)",
+    "year": "2020",
+    "question_num": "8",
+    "description": "This question involves explaining the phase diagram of a typical substance, comparing it to the phase diagram of helium-4, and discussing the properties of helium isotopes. It also requires calculating the thermal contraction of superconducting magnets in the Large Hadron Collider."
+  },
+  {
+    "id": 231,
+    "topic": "Thermal Physics (Thermodynamics)",
+    "year": "2020",
+    "question_num": "9",
+    "description": "This question calculates the pressure of a gas of non-interacting electrons confined to a cubic potential well, using the Pauli exclusion principle and the energy levels of non-interacting particles. The question involves deriving expressions for the pressure of the electron system at absolute zero, comparing it to a classical ideal gas, and explaining the effect of decreasing volume on the pressure using the Heisenberg uncertainty principle."
+  },
+  {
+    "id": 232,
+    "topic": "Thermal Physics (Thermodynamics)",
+    "year": "2021",
+    "question_num": "1",
+    "description": "Here are the 2-sentence descriptions for each question:\n\n1. This question involves calculating the overburden pressure within a uniform stationary spherical body and applying it to estimate the pressure at the centre of the Earth and Jupiter. It also explores the concept of overburden pressure in a \"living\" planet and the deformation of material due to excessive pressure.\n\n2. This question uses the dynamics of the Andromeda and Milky Way galaxies to estimate the total mass of the Local Group, involving the calculation of kinetic and gravitational energy, and the application of Kepler's laws to determine the motion of the galaxies.\n\n3. This question involves a thought experiment where a Black Hole is placed inside the Earth, and explores the concepts of horizon radius, accretion rate, and orbital trajectories within the Earth, while also considering the effects of the Black Hole on the Earth and its inhabitants."
+  },
+  {
+    "id": 233,
+    "topic": "Thermal Physics (Thermodynamics)",
+    "year": "2021",
+    "question_num": "10",
+    "description": "This essay question asks students to choose one of eight topics related to physics and its connections to society, culture, or technology, and write an essay discussing the chosen topic. The topics range from the relevance of C.P. Snow's \"Two Cultures\" essay to the role of physicists in the Covid-19 crisis, and from exciting physics discoveries to the applications of machine learning and laser weapons."
+  },
+  {
+    "id": 234,
+    "topic": "Thermal Physics (Thermodynamics)",
+    "year": "2021",
+    "question_num": "6",
+    "description": "This question explores the cooling of a gas of 87Rb atoms trapped in a laser trap, considering both classical and quantum regimes, and how the temperature changes when the system loses particles due to collisions with a background gas. The problem involves calculations of energy and particle distributions, as well as the behavior of the system during Bose-Einstein condensation."
+  },
+  {
+    "id": 235,
+    "topic": "Thermal Physics (Thermodynamics)",
+    "year": "2021",
+    "question_num": "7",
+    "description": "This question involves the analysis of electron behavior in a doped semiconductor, including diffusion and drift, and the derivation of various equations related to charge and current densities. The question also explores the physical explanations of these equations and their applications to field-effect transistors."
+  },
+  {
+    "id": 236,
+    "topic": "Thermal Physics (Thermodynamics)",
+    "year": "2022",
+    "question_num": "FHEQ 6 only_2",
+    "description": "This question explores the analogy between the Schrödinger equation and the heat/diffusion equations, using dimensional analysis to make estimates and applying these concepts to unusual scenarios such as boiling an ostrich egg and tunneling into a parallel universe. The question requires students to make assumptions about the nature of time, analyze the units and dimensions of various physical quantities, and use scaling arguments to make estimates."
+  },
+  {
+    "id": 237,
+    "topic": "Thermal Physics (Thermodynamics)",
+    "year": "2022",
+    "question_num": "FHEQ 6 only_4",
+    "description": "This question involves a thought experiment where a classical monatomic gas is trapped in a cubic volume and then allowed to escape when the potential well is lowered, resulting in evaporative cooling. The task is to analyze the thermodynamic properties of the system, including its temperature, energy, and particle number, using Boltzmann statistics and the density of states of free particles."
+  },
+  {
+    "id": 238,
+    "topic": "Thermal Physics (Thermodynamics)",
+    "year": "2022",
+    "question_num": "Mocks_1",
+    "description": "This question asks students to derive an equation to estimate the Earth's mean temperature based on the Sun's surface temperature and then use given data to estimate the temperature, explaining the physical principles applied. The question also requires students to estimate an upper bound on the eccentricity of the Earth's orbit based on the temperature range that can support human life."
+  },
+  {
+    "id": 239,
+    "topic": "Thermal Physics (Thermodynamics)",
+    "year": "2022",
+    "question_num": "Mocks_3",
+    "description": "This question involves a statistical model of an election with two candidates and explores the prediction of the final outcome based on the counted ballots after the first day. The question also compares the predicted results with the actual outcome and comments on the validity of the assumptions used.\n\nThis question deals with a quantum mechanics problem involving an electron confined in a one-dimensional infinite potential well, with a Dirac delta-like perturbation applied at a certain position within the well. The question asks for the units of the perturbation constant, the first-order correction to the energy levels, and the analysis of quantum transitions between adjacent levels."
+  },
+  {
+    "id": 240,
+    "topic": "Waves and Optics",
+    "year": "2010",
+    "question_num": "5",
+    "description": "This question is about Snell's Law of refraction and its application to the formation of rainbows, where light passes through a water droplet and is refracted and reflected. The question asks for calculations and explanations of the critical angle, the relationship between the angles of incidence and refraction, and the formation of a circular rainbow."
+  },
+  {
+    "id": 241,
+    "topic": "Waves and Optics",
+    "year": "2010",
+    "question_num": "7",
+    "description": "This question is about a light-sail powered spaceship launched towards a distant star, where the light-sail is propelled by a powerful laser beam. The question asks for various calculations and estimates related to the laser power, acceleration, and visibility of the beam."
+  },
+  {
+    "id": 242,
+    "topic": "Waves and Optics",
+    "year": "2014",
+    "question_num": "9",
+    "description": "This question involves total internal reflection and refraction of light at a boundary, asking to define and derive the critical angle, and to analyze the visibility of an object at the bottom of a bowl filled with a liquid of given refractive index. The problem involves deriving equations for the angle of incidence and visibility of the object under different conditions."
+  },
+  {
+    "id": 243,
+    "topic": "Waves and Optics",
+    "year": "2015",
+    "question_num": "4",
+    "description": "This question deals with the reflection and interference of light in thin dielectric layers, including a flint glass substrate and a thin dielectric film, to minimize reflection. The question involves calculating the reflected amplitude, reflectivity, and phase change on reflection, as well as designing antireflection coatings using single and multilayer structures."
+  },
+  {
+    "id": 244,
+    "topic": "Waves and Optics",
+    "year": "2017",
+    "question_num": "9",
+    "description": "This question involves the reflection of light from a plane mirror and a parabolic mirror, and its application to a solar concentrator energy supply system. The question also explores the calculation of solar energy received and its use in desalinating sea water."
+  },
+  {
+    "id": 245,
+    "topic": "Waves and Optics",
+    "year": "2018",
+    "question_num": "2",
+    "description": "This question involves a two-slit experiment with electrons, where a uniform magnetic field is introduced in a specific region, affecting the interference pattern on a screen. The question asks to analyze the phase differences and angular deviations of the interference pattern with and without the magnetic field."
+  },
+  {
+    "id": 246,
+    "topic": "Waves and Optics",
+    "year": "2018",
+    "question_num": "5",
+    "description": "This question involves the Doppler effect in sound and light, including relativistic effects, and its application to the observation of a rotating galaxy, including the measurement of its velocity and mass. The question covers various topics in physics, including special relativity, spectroscopy, and astronomy."
+  },
+  {
+    "id": 247,
+    "topic": "Waves and Optics",
+    "year": "2018",
+    "question_num": "8",
+    "description": "This question is about the lens equation in optics, asking to prove the equivalence of two forms of the equation and to derive the transverse and longitudinal magnifications. The second part of the question applies these concepts to a microscope setup to find the required focal length and describe the resulting image."
+  },
+  {
+    "id": 248,
+    "topic": "Waves and Optics",
+    "year": "2019",
+    "question_num": "3",
+    "description": "This question is about the formation of images by thin lenses, including determining the type of image formed, deriving the magnification formula, and drawing ray diagrams to illustrate the focusing condition. The question also covers the refraction of light at a spherical surface and the formation of an image by a glass ball."
+  },
+  {
+    "id": 249,
+    "topic": "Waves and Optics",
+    "year": "2020",
+    "question_num": "1",
+    "description": "This question is about the resolution limit of a circular lens and the measurement of a single molecule's position using a microscope and a camera. It involves calculating different measures of resolution and estimating the error in the position measurement due to the pixelation of the camera."
+  },
+  {
+    "id": 250,
+    "topic": "Waves and Optics",
+    "year": "2020",
+    "question_num": "2",
+    "description": "This question involves the calculation of intensity patterns of light on a screen due to interference from multiple point sources, and the analysis of the visibility of the pattern to estimate the angular diameter of a star. The question also involves the estimation of the radius of the star using its parallax angle."
+  }
+]
