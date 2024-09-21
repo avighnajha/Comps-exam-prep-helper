@@ -21,11 +21,12 @@ const Question = ({topic}) => {
             })
             .catch(error => console.error('Fetch error:', error));
     }, [topic]);
+    const doneQuestions = JSON.parse(localStorage.getItem('doneQuestions') || '[]');
+    const filteredQuestions = questions.filter((question)=> !doneQuestions.includes(question.id));
 
     return <div className="grid-container">
-        {/* <p>{questions}</p> */}
-        {questions.map((question)=>(
-            <Box year={question.year} number={question.question_num} description={question.description}/>
+        {filteredQuestions.map((question)=>(
+            <Box id = {question.id} year={question.year} number={question.question_num} description={question.description} link={question.question_link}/>
         ))}
     </div>;
 

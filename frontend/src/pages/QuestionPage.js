@@ -16,8 +16,8 @@ function QuestionPage() {
     if (selectElement && spanElement){
       spanElement.textContent = selectElement.options[selectElement.selectedIndex].text;
       const textWidth = spanElement.offsetWidth;
-      const basePadding = 20; // Base padding in pixels
-      const dynamicPadding = textWidth * 1.7; // Adjust this factor as needed
+      const basePadding = 10; // Base padding in pixels
+      const dynamicPadding = textWidth * 1.4; // Adjust this factor as needed
       selectElement.style.width = `${textWidth + basePadding + dynamicPadding}px`;
     }
     
