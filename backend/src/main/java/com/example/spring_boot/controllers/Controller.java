@@ -8,6 +8,8 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
 import java.io.IOException;
+import java.net.MalformedURLException;
+import java.util.HashMap;
 import java.util.List;
 
 @RestController
@@ -33,8 +35,15 @@ public class Controller {
         return questionService.getAllQuestions();
     }
 
-    @GetMapping("/question-by-topic/{topic}")
-    public Iterable<Question> getQuestionsByTopic(@PathVariable String topic) {
+    @GetMapping("/question-by-topic")
+    public Iterable<Question> getQuestionsByTopic(@RequestParam String topic) {
+        System.out.println("Request Topic: " + topic);
         return questionService.getQuestionByTopic(topic);
+    }
+
+    // Endpoint to set the links of the questions from a json of all links to the db
+    @GetMapping("/get-links")
+    public void getLinks() throws IOException {
+        questionService.setLinks();
     }
 }

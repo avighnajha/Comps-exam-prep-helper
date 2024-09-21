@@ -2,6 +2,8 @@ package com.example.spring_boot.service;
 
 import com.example.spring_boot.models.Question;
 import com.example.spring_boot.repository.QuestionRepository;
+import com.fasterxml.jackson.core.type.TypeReference;
+import com.fasterxml.jackson.databind.ObjectMapper;
 import lombok.NoArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.apache.pdfbox.pdmodel.PDDocument;
@@ -9,6 +11,9 @@ import org.apache.pdfbox.text.PDFTextStripper;
 import org.springframework.ai.chat.client.ChatClient;
 import org.springframework.ai.retry.NonTransientAiException;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.core.io.ClassPathResource;
+import org.springframework.core.io.Resource;
+import org.springframework.core.io.ResourceLoader;
 import org.springframework.stereotype.Service;
 import org.springframework.web.client.HttpClientErrorException;
 
@@ -16,7 +21,10 @@ import java.io.File;
 import java.io.IOException;
 import java.net.MalformedURLException;
 import java.net.URL;
+import java.nio.file.Files;
 import java.nio.file.NoSuchFileException;
+import java.nio.file.Paths;
+import java.util.HashMap;
 import java.util.List;
 import java.util.Properties;
 
@@ -28,10 +36,15 @@ public class QuestionService {
 //    @Autowired
     private final QuestionRepository questionRepository;
 
+    @Autowired
+    private ResourceLoader resourceLoader;
+
     private static final int MAX_RETRIES = 5; // Maximum number of retries
     private static final int WAIT_TIME_MS = 10000; //Wait 10s
     private static final String FOLDER_ID = "1K3t2Tm83aevVoLFCAPfPbAJVJdPUNidS";
     private static final String API_KEY = new Properties().getProperty("google.api.key");
+    @Autowired
+    private ObjectMapper jacksonObjectMapper;
 
     public QuestionService(QuestionRepository questionRepository,
                            ChatClient.Builder builder) {
@@ -62,11 +75,6 @@ public class QuestionService {
             } else {throw new NoSuchFileException("No file found" + dir.getAbsolutePath());
             }
         }
-    }
-
-    public void setLinks() throws MalformedURLException {
-        String urlString = "https://www.googleapis.com/drive/v3/files?q='" + FOLDER_ID + "'+in+parents&key=" + API_KEY + "&fields=files(id,name,webViewLink)";
-        URL url = new URL(urlString);
     }
 
     private void saveQuestion(String path, String topic, String year, String num) throws IOException, InterruptedException {
@@ -121,4 +129,27 @@ public class QuestionService {
     throw new RuntimeException("Max retries exceeded, API call failed.");
 
     };
+
+    //Hl
+    public void setLinks() throws IOException {
+       // HashMap<String, HashMap<String, String>> links = new HashMap<>();
+        File resource = new ClassPathResource("json/links.json").getFile();
+        HashMap<String, HashMap<String, String>> links = jacksonObjectMapper.readValue(resource,
+                new TypeReference<HashMap<String, HashMap<String, String>>>() {});
+
+
+        for (String key : links.keySet()) {
+            List<Question> questions = questionRepository.getByTopic(key);
+            System.out.println("TOPIC: " + key);
+            for (Question question : questions) {
+                System.out.println(question.getYear() + question.getQuestion_num());
+                String num = question.getQuestion_num();
+                String year = question.getYear();
+                question.setQuestion_link(links.get(key).get(year + "_" + num + ".pdf"));
+                questionRepository.save(question);
+            }
+
+        }
+    }
+
 }

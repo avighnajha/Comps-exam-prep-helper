@@ -1,5 +1,6 @@
 import { useState, useEffect, useRef } from 'react';
 import '../css/QuestionPage.css';
+import Question from "../components/Question";
 
 function QuestionPage() {
   const [topic, setTopic] = useState("");
@@ -19,15 +20,13 @@ function QuestionPage() {
       const dynamicPadding = textWidth * 1.7; // Adjust this factor as needed
       selectElement.style.width = `${textWidth + basePadding + dynamicPadding}px`;
     }
-
-    fetchTopicQuestions(topic)
     
   }, [topic]);
   
   return (
     <div className='question-page'>
       <h1>I want to do a 
-        <select ref={selectRef} value={topic} onChange = {handleChangeTopic} class = "underline">
+        <select ref={selectRef} value={topic} onChange = {handleChangeTopic} className = "underline">
           <option value = "Physics">Physics</option>
           <option value = "Quantum Mechanics">Quantum Mechanics</option>
           <option value = "Waves and Optics">Waves and Optics</option>
@@ -43,7 +42,9 @@ function QuestionPage() {
         question!
          </h1>
         <span ref={spanRef} style={{ visibility: 'hidden', whiteSpace: 'nowrap', position: 'absolute' }}></span>
+        <Question topic = {topic}/>
     </div>
+
   );
 }
 

@@ -1,0 +1,7 @@
+/* Question.css */
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 16px; /* Adjust the gap between grid items as needed */
+    padding: 16px; /* Optional: Add padding around the grid */
+}

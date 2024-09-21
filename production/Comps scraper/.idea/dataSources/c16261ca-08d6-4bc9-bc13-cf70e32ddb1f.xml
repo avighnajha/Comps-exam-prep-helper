@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataSource name="@localhost">
+  <database-model serializer="dbm" dbms="DYNAMO" family-id="DYNAMO" format-version="4.52">
+    <root id="1">
+      <ServerVersion>1.0</ServerVersion>
+    </root>
+    <schema id="2" parent="1" name="schema"/>
+  </database-model>
+</dataSource>
