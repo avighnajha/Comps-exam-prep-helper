@@ -58,8 +58,8 @@ function QuestionPage() {
         <span ref={spanRef} style={{ visibility: 'hidden', whiteSpace: 'nowrap', position: 'absolute' }}></span>
         <Question topic = {topic} isDone={false}/>
         <div className='doneQ'>
-          <h2>{topic===""? "Please select a topic" : "Done Questions" }</h2>
-          <Question topic = {topic} isDone={true}/>
+          {topic!=="" && <h2>Done Questions</h2>}
+          <Question topic = {topic} isDone={true} introPage={true ? topic==="" : false}/>
         </div>
     </div>
 

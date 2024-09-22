@@ -2,7 +2,7 @@ import React, {useEffect, useState} from "react"
 import Box from "./Box"
 import "../css/Question.css"
 
-const Question = ({topic, isDone}) => {
+const Question = ({topic, isDone, introPage}) => {
     const [questions, setQuestions] = useState([]);
     const [doneQuestions, setDoneQuestions] = useState(JSON.parse(localStorage.getItem('doneQuestions') || '[]'));
     
@@ -28,7 +28,14 @@ const Question = ({topic, isDone}) => {
     // const doneQuestions = JSON.parse(localStorage.getItem('doneQuestions') || '[]');
     const filteredQuestions = questions.filter((question)=> !doneQuestions.includes(question.id));
     const filteredDone = questions.filter((question)=> doneQuestions.includes(question.id));
-    return !isDone ? (
+    return introPage ? (
+        <div className="disclaimer">
+            <h1>Welcome to the question page!</h1>
+            <h2>Choose a topic from the dropdown menu to get started!</h2>
+            <h2>Total questions done: {doneQuestions.length}/206</h2>
+            <p>After selecting a topic, click on question boxes to be redirected to the question. You can mark questions as done and find them at the bottom of the topic pages.</p>
+        </div>
+    ) : !isDone ? (
     <div className="notDone">
     {topic !== "" && (<h3>Questions done: {filteredDone.length}/{questions.length}</h3>)}
     <div className="grid-container">
@@ -45,7 +52,8 @@ const Question = ({topic, isDone}) => {
         ))}
     </div>
     </div>
-    ) :
+    )
+    :
     (<div className="grid-container">
         {filteredDone.map((question)=>(
             <Box 

@@ -8,3 +8,17 @@
 .notDone h3 {
     color: rgb(181, 181, 181);
 }
+/* Add this to your CSS file (e.g., Question.css) */
+.disclaimer {
+    border: 2px solid #ccc; /* Light gray border */
+    border-radius: 15px; /* Curved border */
+    padding: 20px; /* Padding inside the box */
+    background-color: #f9f9f9; /* Light background color */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Optional: Add a subtle shadow */
+}
+.disclaimer h1 {
+    color: #333; /* Dark gray text color */
+}
+.disclaimer h2 {
+    color: #333; /* Dark gray text color */
+}
