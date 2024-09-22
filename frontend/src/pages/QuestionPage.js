@@ -3,10 +3,18 @@ import '../css/QuestionPage.css';
 import Question from "../components/Question";
 
 function QuestionPage() {
+  const [headerVisible, setHeaderVisible] = useState(()=>{
+    const headerVisible = localStorage.getItem('headerVisible');
+    return headerVisible ? JSON.parse(headerVisible) : true;
+  });
+
   const [topic, setTopic] = useState("");
   const selectRef = useRef(null);
   const spanRef = useRef(null);
 
+  const handleCloseHeader = () => {
+    localStorage.setItem('headerVisible', JSON.stringify(false));
+    setHeaderVisible(false);}
   const handleChangeTopic = (event) => {
     setTopic(event.target.value)
   }
@@ -25,6 +33,12 @@ function QuestionPage() {
   
   return (
     <div className='question-page'>
+      {headerVisible && (
+        <div className="header">
+          <h3>Done questions are at the bottom!</h3>
+          <button onClick={handleCloseHeader} className="close-button">X</button>
+        </div>
+      )}
       <h1>I want to do a 
         <select ref={selectRef} value={topic} onChange = {handleChangeTopic} className = "underline">
           <option value = "Physics">Physics</option>
@@ -40,9 +54,13 @@ function QuestionPage() {
           <option value = "Gravitation">Gravitation</option>
         </select>
         question!
-         </h1>
+       </h1>
         <span ref={spanRef} style={{ visibility: 'hidden', whiteSpace: 'nowrap', position: 'absolute' }}></span>
-        <Question topic = {topic}/>
+        <Question topic = {topic} isDone={false}/>
+        <div className='doneQ'>
+          <h2>{topic===""? "Please select a topic" : "Done Questions" }</h2>
+          <Question topic = {topic} isDone={true}/>
+        </div>
     </div>
 
   );

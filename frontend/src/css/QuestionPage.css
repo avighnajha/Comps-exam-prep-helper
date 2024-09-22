@@ -10,6 +10,9 @@ body {
 .question-page h1 {
   color: white;
 }
+.question-page h2 {
+  color: rgb(178, 174, 174);
+}
 
 .question-page select {
   margin-left: 5pt;
@@ -20,4 +23,27 @@ body {
   color: white;
   font-weight: 500;
   text-decoration: underline;
+}
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #f8f9fa;
+  padding: 10px;
+  border-bottom: 1px solid #dee2e6;
+}
+
+.header h3 {
+  color: black;
+  margin: 0;
+}
+
+.close-button {
+  background: none;
+  border: none;
+  font-size: 1.5rem;
+  cursor: pointer;
+}
+.doneQ h2 {
+  color: white;
 }

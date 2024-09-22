@@ -1,9 +1,12 @@
 import {React, useEffect, useState} from "react"
 import "../css/Box.css"
 
-const Box =({id, year, number, description, link}) => {
+const Box =({id, year, number, description, link, checked, onMarkDone}) => {
     const [isChecked, setIsChecked] = useState(false);
 
+    useEffect(() => {
+        setIsChecked(checked);
+    }, [checked]);
     useEffect(() => {
         const doneQuestions = JSON.parse(localStorage.getItem('doneQuestions') || '[]');
         setIsChecked(doneQuestions.includes(id));
@@ -15,6 +18,7 @@ const Box =({id, year, number, description, link}) => {
             unmarkDone(id);
         }
         setIsChecked(e.target.checked);
+        onMarkDone();
     }
     const markDone = (questionId) =>{
         let doneQuestions = JSON.parse(localStorage.getItem('doneQuestions') || '[]');
@@ -40,7 +44,7 @@ const Box =({id, year, number, description, link}) => {
             </div>
             <div>
                 <span className="checkbox-text">Done? </span>
-                <input className = "checkbox" type="checkbox" onChange={handleCheckboxChange}/>
+                <input className = "checkbox" type="checkbox" checked = {isChecked} onChange={handleCheckboxChange}/>
             </div>
         </div>
     )
