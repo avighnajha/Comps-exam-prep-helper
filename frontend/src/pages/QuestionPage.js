@@ -41,7 +41,7 @@ function QuestionPage() {
       )}
       <h1>I want to do a 
         <select ref={selectRef} value={topic} onChange = {handleChangeTopic} className = "underline">
-          <option value = "Physics">Physics</option>
+          <option value = "">Physics</option>
           <option value = "Quantum Mechanics">Quantum Mechanics</option>
           <option value = "Waves and Optics">Waves and Optics</option>
           <option value = "Mechanics">Mechanics</option>
