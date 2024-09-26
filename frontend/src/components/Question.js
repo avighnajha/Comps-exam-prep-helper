@@ -30,10 +30,10 @@ const Question = ({topic, isDone, introPage}) => {
     const filteredDone = questions.filter((question)=> doneQuestions.includes(question.id));
     return introPage ? (
         <div className="disclaimer">
-            <h1>Welcome to the question page!</h1>
+            <h1>Welcome to the Comps prep page.</h1>
             <h2>Choose a topic from the dropdown menu to get started!</h2>
             <h2>Total questions done: {doneQuestions.length}/206</h2>
-            <p>After selecting a topic, click on question boxes to be redirected to the question. You can mark questions as done and find them at the bottom of the topic pages.</p>
+            <p>After selecting a topic above, click on question boxes to be redirected to the question pdf. You can mark questions as done and find them at the bottom of the topic pages.</p>
         </div>
     ) : !isDone ? (
     <div className="notDone">
