@@ -9,6 +9,8 @@ function QuestionPage() {
   });
 
   const [topic, setTopic] = useState("");
+  const [doneQuestions, setDoneQuestions] = useState(JSON.parse(localStorage.getItem('doneQuestions') || '[]'));
+
   const selectRef = useRef(null);
   const spanRef = useRef(null);
 
@@ -18,6 +20,9 @@ function QuestionPage() {
   const handleChangeTopic = (event) => {
     setTopic(event.target.value)
   }
+  const handleMarkDone = () => {
+    setDoneQuestions(JSON.parse(localStorage.getItem('doneQuestions') || '[]'));
+};
   useEffect(() => {
     const selectElement = selectRef.current;
     const spanElement = spanRef.current;
@@ -56,10 +61,10 @@ function QuestionPage() {
         question!
        </h1>
         <span ref={spanRef} style={{ visibility: 'hidden', whiteSpace: 'nowrap', position: 'absolute' }}></span>
-        <Question topic = {topic} isDone={false}/>
+        <Question topic = {topic} isDone={false} doneQuestions={doneQuestions} handleMarkDone={handleMarkDone}/>
         <div className='doneQ'>
           {topic!=="" && <h2>Done Questions</h2>}
-          <Question topic = {topic} isDone={true} introPage={true ? topic==="" : false}/>
+          <Question topic = {topic} isDone={true} introPage={true ? topic==="" : false} doneQuestions={doneQuestions} handleMarkDone={handleMarkDone}/>
         </div>
     </div>
 

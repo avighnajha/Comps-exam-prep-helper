@@ -7,10 +7,10 @@ const Box =({id, year, number, description, link, checked, onMarkDone}) => {
     useEffect(() => {
         setIsChecked(checked);
     }, [checked]);
-    useEffect(() => {
-        const doneQuestions = JSON.parse(localStorage.getItem('doneQuestions') || '[]');
-        setIsChecked(doneQuestions.includes(id));
-    }, [id]);
+    // useEffect(() => {
+    //     const doneQuestions = JSON.parse(localStorage.getItem('doneQuestions') || '[]');
+    //     setIsChecked(doneQuestions.includes(id));
+    // }, [id]);
     const handleCheckboxChange=(e)=>{
         if(e.target.checked){
             markDone(id);
@@ -19,6 +19,7 @@ const Box =({id, year, number, description, link, checked, onMarkDone}) => {
         }
         setIsChecked(e.target.checked);
         onMarkDone();
+        //updateQuestions();
     }
     const markDone = (questionId) =>{
         let doneQuestions = JSON.parse(localStorage.getItem('doneQuestions') || '[]');
