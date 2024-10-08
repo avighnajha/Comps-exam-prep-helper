@@ -4,8 +4,7 @@ import "../css/Question.css"
 
 const Question = ({topic, isDone, introPage, doneQuestions, handleMarkDone}) => {
     const [questions, setQuestions] = useState([]);
-    // const [doneQuestions, setDoneQuestions] = useState(JSON.parse(localStorage.getItem('doneQuestions') || '[]'));
-    
+
     useEffect(() => {
         let baseUrl = 'http://localhost:8080/comps';
         fetch(baseUrl + `/question-by-topic?topic=${encodeURIComponent(topic)}`)
@@ -22,17 +21,9 @@ const Question = ({topic, isDone, introPage, doneQuestions, handleMarkDone}) => 
             .catch(error => console.error('Fetch error:', error));
     }, [topic]);
 
-    // const handleMarkDone = () =>{
-    //     setDoneQuestions(JSON.parse(localStorage.getItem('doneQuestions') || '[]'));
-    // }
-    // const updateQuestions = () => {
-    //     console.log("Rerendering")
-    //     setQuestions([...questions]); // Trigger a re-render by updating the state
-    // };
-    // const doneQuestions = JSON.parse(localStorage.getItem('doneQuestions') || '[]');
     const filteredQuestions = questions.filter((question)=> !doneQuestions.includes(question.id));
     const filteredDone = questions.filter((question)=> doneQuestions.includes(question.id));
-    console.log(filteredDone, filteredQuestions)
+    //console.log(filteredDone, filteredQuestions)
     return introPage ? (
         <div className="disclaimer">
             <h1>Welcome to the Comps prep page.</h1>
@@ -54,7 +45,6 @@ const Question = ({topic, isDone, introPage, doneQuestions, handleMarkDone}) => 
              link={question.question_link}
              checked={doneQuestions.includes(question.id)}
              onMarkDone={handleMarkDone} />
-             //updateQuestions={updateQuestions}/>
         ))}
     </div>
     </div>
@@ -71,7 +61,6 @@ const Question = ({topic, isDone, introPage, doneQuestions, handleMarkDone}) => 
              link={question.question_link}
              checked={doneQuestions.includes(question.id)}
              onMarkDone={handleMarkDone}/>
-             //updateQuestions={updateQuestions}/>
         ))}
     </div>)
 }
